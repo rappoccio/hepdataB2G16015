@@ -1,0 +1,134 @@
+dependent_variables:
+- header:
+    name: Observed limits
+    units: pb
+  values:
+  - value: 78.0
+  - value: 7.1
+  - value: 1.8
+  - value: 1.1
+  - value: 0.24
+  - value: 0.1
+  - value: 0.046
+  - value: 0.046
+  - value: 0.025
+  - value: 0.022
+- header:
+    name: Expected limits
+    units: pb
+  values:
+  - errors:
+    - asymerror:
+        minus: -38.0
+        plus: 62.0
+      label: 1 s.d.
+    - asymerror:
+        minus: -56.0
+        plus: 142.0
+      label: 2 s.d.
+    value: 88.0
+  - errors:
+    - asymerror:
+        minus: -1.8
+        plus: 2.7
+      label: 1 s.d.
+    - asymerror:
+        minus: -3.2
+        plus: 6.9
+      label: 2 s.d.
+    value: 6.1
+  - errors:
+    - asymerror:
+        minus: -0.5
+        plus: 0.7
+      label: 1 s.d.
+    - asymerror:
+        minus: -0.75
+        plus: 1.5
+      label: 2 s.d.
+    value: 1.5
+  - errors:
+    - asymerror:
+        minus: -0.15
+        plus: 0.25
+      label: 1 s.d.
+    - asymerror:
+        minus: -0.27
+        plus: 0.67
+      label: 2 s.d.
+    value: 0.53
+  - errors:
+    - asymerror:
+        minus: -0.09
+        plus: 0.14
+      label: 1 s.d.
+    - asymerror:
+        minus: -0.14
+        plus: 0.33
+      label: 2 s.d.
+    value: 0.29
+  - errors:
+    - asymerror:
+        minus: -0.04
+        plus: 0.05
+      label: 1 s.d.
+    - asymerror:
+        minus: -0.063
+        plus: 0.12
+      label: 2 s.d.
+    value: 0.12
+  - errors:
+    - asymerror:
+        minus: -0.017
+        plus: 0.029
+      label: 1 s.d.
+    - asymerror:
+        minus: -0.03
+        plus: 0.069
+      label: 2 s.d.
+    value: 0.061
+  - errors:
+    - asymerror:
+        minus: -0.014
+        plus: 0.024
+      label: 1 s.d.
+    - asymerror:
+        minus: -0.023
+        plus: 0.052
+      label: 2 s.d.
+    value: 0.047
+  - errors:
+    - asymerror:
+        minus: -0.01
+        plus: 0.019
+      label: 1 s.d.
+    - asymerror:
+        minus: -0.017
+        plus: 0.045
+      label: 2 s.d.
+    value: 0.036
+  - errors:
+    - asymerror:
+        minus: -0.01
+        plus: 0.017
+      label: 1 s.d.
+    - asymerror:
+        minus: -0.016
+        plus: 0.043
+      label: 2 s.d.
+    value: 0.032
+independent_variables:
+- header:
+    name: m_{t\overline{t}}
+    units: TeV
+  values:
+  - value: 0.5
+  - value: 0.75
+  - value: 1.0
+  - value: 1.25
+  - value: 1.5
+  - value: 2.0
+  - value: 2.5
+  - value: 3.0
+  - value: 3.5
+  - value: 4.0

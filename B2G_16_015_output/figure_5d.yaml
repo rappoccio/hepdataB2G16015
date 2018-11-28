@@ -1,0 +1,1520 @@
+dependent_variables:
+- header:
+    name: Number of _Zprime1000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0078932
+  - value: 0.00020771
+  - value: 0.0031778
+  - value: 0
+  - value: 0.031943
+  - value: 0.00071215
+  - value: 0
+  - value: 0
+  - value: 0.016423
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _Zprime1250 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.089092
+  - value: 0.56043
+  - value: 0.010034
+  - value: 0.097407
+  - value: 0
+  - value: 0.00022147
+  - value: 0
+  - value: 0.017511
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _Zprime1500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 4.3706e-06
+  - value: 1.0951
+  - value: 4.2308
+  - value: 3.3827
+  - value: 1.0257
+  - value: 0.051703
+  - value: 0
+  - value: 0.0035655
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _Zprime2000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0047616
+  - value: 0.046661
+  - value: 0.2376
+  - value: 0.78334
+  - value: 1.0837
+  - value: 2.3045
+  - value: 4.132
+  - value: 7.6384
+  - value: 6.8363
+  - value: 1.688
+  - value: 0.41503
+  - value: 0.077901
+  - value: 0.035078
+  - value: 0.0047616
+  - value: 0.033438
+  - value: 0.018433
+  - value: 0
+  - value: 0
+  - value: 0.00083727
+  - value: 0.0047616
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _Zprime2500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.059737
+  - value: 0.20152
+  - value: 0.30706
+  - value: 0.27193
+  - value: 0.85663
+  - value: 0.73475
+  - value: 2.1492
+  - value: 3.114
+  - value: 3.7057
+  - value: 5.2734
+  - value: 7.2012
+  - value: 7.3411
+  - value: 2.0862
+  - value: 0.22253
+  - value: 0.09187
+  - value: 0
+  - value: 0.097672
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _Zprime3000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.066771
+  - value: 0
+  - value: 0.0014488
+  - value: 0.00084303
+  - value: 3.6425e-05
+  - value: 0.014874
+  - value: 0.11594
+  - value: 0.15324
+  - value: 0.21979
+  - value: 0.36383
+  - value: 0.33662
+  - value: 0.74412
+  - value: 1.3468
+  - value: 2.165
+  - value: 2.2752
+  - value: 2.7322
+  - value: 4.6633
+  - value: 6.5315
+  - value: 7.1128
+  - value: 4.9341
+  - value: 2.1163
+  - value: 0.66861
+  - value: 0.49646
+  - value: 0.0009602
+  - value: 0.12066
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.031896
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.066771
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _Zprime3500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0034207
+  - value: 0
+  - value: 0
+  - value: 3.7561e-05
+  - value: 0
+  - value: 0.0084965
+  - value: 3.7561e-05
+  - value: 0.13275
+  - value: 0.1654
+  - value: 0.25752
+  - value: 0.40566
+  - value: 0.2745
+  - value: 0.33644
+  - value: 0.69482
+  - value: 0.86813
+  - value: 1.1821
+  - value: 1.4075
+  - value: 1.6125
+  - value: 2.5354
+  - value: 3.3226
+  - value: 5.0933
+  - value: 6.5924
+  - value: 6.174
+  - value: 4.6482
+  - value: 2.8016
+  - value: 0.78385
+  - value: 0.073659
+  - value: 0.099219
+  - value: 0.00076658
+  - value: 0
+  - value: 0.001494
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _Zprime4000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.088007
+  - value: 0.051431
+  - value: 0.11658
+  - value: 0.24156
+  - value: 0.20186
+  - value: 0.0088686
+  - value: 0.32678
+  - value: 0.64114
+  - value: 0.69512
+  - value: 0.54669
+  - value: 0.80322
+  - value: 1.074
+  - value: 0.73712
+  - value: 1.993
+  - value: 2.0148
+  - value: 2.4511
+  - value: 3.3163
+  - value: 2.8582
+  - value: 4.6825
+  - value: 4.913
+  - value: 5.5529
+  - value: 4.0806
+  - value: 2.2266
+  - value: 0.75427
+  - value: 0.717
+  - value: 0.01986
+  - value: 0.071291
+  - value: 3.8201e-05
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _ttbar events in all-had / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.23924
+    value: 0.97363
+  - errors:
+    - label: total uncertainty
+      symerror: 0.39285
+    value: 3.0079
+  - errors:
+    - label: total uncertainty
+      symerror: 0.50048
+    value: 4.976
+  - errors:
+    - label: total uncertainty
+      symerror: 0.59791
+    value: 6.8775
+  - errors:
+    - label: total uncertainty
+      symerror: 0.49754
+    value: 4.8173
+  - errors:
+    - label: total uncertainty
+      symerror: 0.47618
+    value: 4.3629
+  - errors:
+    - label: total uncertainty
+      symerror: 0.43103
+    value: 3.556
+  - errors:
+    - label: total uncertainty
+      symerror: 0.40787
+    value: 3.2234
+  - errors:
+    - label: total uncertainty
+      symerror: 0.33187
+    value: 2.0736
+  - errors:
+    - label: total uncertainty
+      symerror: 0.28795
+    value: 1.5854
+  - errors:
+    - label: total uncertainty
+      symerror: 0.26526
+    value: 1.3913
+  - errors:
+    - label: total uncertainty
+      symerror: 0.22854
+    value: 0.96289
+  - errors:
+    - label: total uncertainty
+      symerror: 0.16483
+    value: 0.54323
+  - errors:
+    - label: total uncertainty
+      symerror: 0.1882
+    value: 0.62773
+  - errors:
+    - label: total uncertainty
+      symerror: 0.11668
+    value: 0.39552
+  - errors:
+    - label: total uncertainty
+      symerror: 0.11454
+    value: 0.20961
+  - errors:
+    - label: total uncertainty
+      symerror: 0.11139
+    value: 0.27558
+  - errors:
+    - label: total uncertainty
+      symerror: 0.11917
+    value: 0.27502
+  - errors:
+    - label: total uncertainty
+      symerror: 0.097689
+    value: 0.18788
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.10046
+    value: 0.19185
+  - errors:
+    - label: total uncertainty
+      symerror: 0.08278
+    value: 0.16587
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.087283
+    value: 0.12052
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+- header:
+    name: Number of _qcd events in all-had / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.15621
+    value: 0.538
+  - errors:
+    - label: total uncertainty
+      symerror: 1.1519
+    value: 30.013
+  - errors:
+    - label: total uncertainty
+      symerror: 1.9237
+    value: 83.811
+  - errors:
+    - label: total uncertainty
+      symerror: 2.1213
+    value: 102.85
+  - errors:
+    - label: total uncertainty
+      symerror: 2.0554
+    value: 98.234
+  - errors:
+    - label: total uncertainty
+      symerror: 1.9374
+    value: 88.686
+  - errors:
+    - label: total uncertainty
+      symerror: 1.7587
+    value: 73.644
+  - errors:
+    - label: total uncertainty
+      symerror: 1.5547
+    value: 59.017
+  - errors:
+    - label: total uncertainty
+      symerror: 1.4323
+    value: 50.614
+  - errors:
+    - label: total uncertainty
+      symerror: 1.2687
+    value: 40.658
+  - errors:
+    - label: total uncertainty
+      symerror: 1.1289
+    value: 32.543
+  - errors:
+    - label: total uncertainty
+      symerror: 0.99648
+    value: 25.294
+  - errors:
+    - label: total uncertainty
+      symerror: 0.90967
+    value: 21.83
+  - errors:
+    - label: total uncertainty
+      symerror: 0.80389
+    value: 17.339
+  - errors:
+    - label: total uncertainty
+      symerror: 0.71389
+    value: 13.831
+  - errors:
+    - label: total uncertainty
+      symerror: 0.64585
+    value: 11.34
+  - errors:
+    - label: total uncertainty
+      symerror: 0.57496
+    value: 9.0635
+  - errors:
+    - label: total uncertainty
+      symerror: 0.49726
+    value: 6.9251
+  - errors:
+    - label: total uncertainty
+      symerror: 0.47154
+    value: 6.4228
+  - errors:
+    - label: total uncertainty
+      symerror: 0.41433
+    value: 4.944
+  - errors:
+    - label: total uncertainty
+      symerror: 0.37237
+    value: 4.0406
+  - errors:
+    - label: total uncertainty
+      symerror: 0.33175
+    value: 3.21
+  - errors:
+    - label: total uncertainty
+      symerror: 0.31376
+    value: 2.9253
+  - errors:
+    - label: total uncertainty
+      symerror: 0.30646
+    value: 2.8202
+  - errors:
+    - label: total uncertainty
+      symerror: 0.28689
+    value: 2.4451
+  - errors:
+    - label: total uncertainty
+      symerror: 0.24207
+    value: 1.765
+  - errors:
+    - label: total uncertainty
+      symerror: 0.20365
+    value: 1.2355
+  - errors:
+    - label: total uncertainty
+      symerror: 0.1865
+    value: 1.0506
+  - errors:
+    - label: total uncertainty
+      symerror: 0.16932
+    value: 0.85516
+  - errors:
+    - label: total uncertainty
+      symerror: 0.14995
+    value: 0.67989
+  - errors:
+    - label: total uncertainty
+      symerror: 0.18282
+    value: 1.012
+  - errors:
+    - label: total uncertainty
+      symerror: 0.12591
+    value: 0.48682
+  - errors:
+    - label: total uncertainty
+      symerror: 0.12962
+    value: 0.50007
+  - errors:
+    - label: total uncertainty
+      symerror: 0.12926
+    value: 0.49959
+  - errors:
+    - label: total uncertainty
+      symerror: 0.12177
+    value: 0.45535
+  - errors:
+    - label: total uncertainty
+      symerror: 0.098403
+    value: 0.29505
+  - errors:
+    - label: total uncertainty
+      symerror: 0.10094
+    value: 0.30148
+  - errors:
+    - label: total uncertainty
+      symerror: 0.10121
+    value: 0.3024
+  - errors:
+    - label: total uncertainty
+      symerror: 0.081176
+    value: 0.19876
+  - errors:
+    - label: total uncertainty
+      symerror: 0.089973
+    value: 0.25198
+  - errors:
+    - label: total uncertainty
+      symerror: 0.082477
+    value: 0.20172
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.066537
+    value: 0.13299
+  - errors:
+    - label: total uncertainty
+      symerror: 0.058658
+    value: 0.10131
+  - errors:
+    - label: total uncertainty
+      symerror: 0.067537
+    value: 0.13506
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+- header:
+    name: Number of data events in all-had / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 5.0
+    value: 25.0
+  - errors:
+    - label: Poisson errors
+      symerror: 8.4261
+    value: 71.0
+  - errors:
+    - label: Poisson errors
+      symerror: 10.296
+    value: 106.0
+  - errors:
+    - label: Poisson errors
+      symerror: 10.0
+    value: 100.0
+  - errors:
+    - label: Poisson errors
+      symerror: 10.05
+    value: 101.0
+  - errors:
+    - label: Poisson errors
+      symerror: 9.2736
+    value: 86.0
+  - errors:
+    - label: Poisson errors
+      symerror: 8.4261
+    value: 71.0
+  - errors:
+    - label: Poisson errors
+      symerror: 7.0
+    value: 49.0
+  - errors:
+    - label: Poisson errors
+      symerror: 6.8557
+    value: 47.0
+  - errors:
+    - label: Poisson errors
+      symerror: 5.3852
+    value: 29.0
+  - errors:
+    - label: Poisson errors
+      symerror: 6.0
+    value: 36.0
+  - errors:
+    - label: Poisson errors
+      symerror: 4.5826
+    value: 21.0
+  - errors:
+    - label: Poisson errors
+      symerror: 4.4721
+    value: 20.0
+  - errors:
+    - label: Poisson errors
+      symerror: 4.0
+    value: 16.0
+  - errors:
+    - label: Poisson errors
+      symerror: 2.8284
+    value: 8.0
+  - errors:
+    - label: Poisson errors
+      symerror: 3.4641
+    value: 12.0
+  - errors:
+    - label: Poisson errors
+      symerror: 2.6458
+    value: 7.0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 2.2361
+    value: 5.0
+  - errors:
+    - label: Poisson errors
+      symerror: 2.0
+    value: 4.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.4142
+    value: 2.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.7321
+    value: 3.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.0
+    value: 1.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.7321
+    value: 3.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.4142
+    value: 2.0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.4142
+    value: 2.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.0
+    value: 1.0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.0
+    value: 1.0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.0
+    value: 1.0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+independent_variables:
+- header:
+    name: $M_{t\overline{t}}$
+    units: GeV
+  values:
+  - value: 50.0
+  - value: 150.0
+  - value: 250.0
+  - value: 350.0
+  - value: 450.0
+  - value: 550.0
+  - value: 650.0
+  - value: 750.0
+  - value: 850.0
+  - value: 950.0
+  - value: 1050.0
+  - value: 1150.0
+  - value: 1250.0
+  - value: 1350.0
+  - value: 1450.0
+  - value: 1550.0
+  - value: 1650.0
+  - value: 1750.0
+  - value: 1850.0
+  - value: 1950.0
+  - value: 2050.0
+  - value: 2150.0
+  - value: 2250.0
+  - value: 2350.0
+  - value: 2450.0
+  - value: 2550.0
+  - value: 2650.0
+  - value: 2750.0
+  - value: 2850.0
+  - value: 2950.0
+  - value: 3050.0
+  - value: 3150.0
+  - value: 3250.0
+  - value: 3350.0
+  - value: 3450.0
+  - value: 3550.0
+  - value: 3650.0
+  - value: 3750.0
+  - value: 3850.0
+  - value: 3950.0
+  - value: 4050.0
+  - value: 4150.0
+  - value: 4250.0
+  - value: 4350.0
+  - value: 4450.0
+  - value: 4550.0
+  - value: 4650.0
+  - value: 4750.0
+  - value: 4850.0
+  - value: 4950.0
+  - value: 5050.0
+  - value: 5150.0
+  - value: 5250.0
+  - value: 5350.0
+  - value: 5450.0
+  - value: 5550.0
+  - value: 5650.0
+  - value: 5750.0
+  - value: 5850.0
+  - value: 5950.0
+  - value: 6050.0
+  - value: 6150.0
+  - value: 6250.0
+  - value: 6350.0
+  - value: 6450.0
+  - value: 6550.0
+  - value: 6650.0
+  - value: 6750.0
+  - value: 6850.0
+  - value: 6950.0

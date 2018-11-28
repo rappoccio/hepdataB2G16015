@@ -1,0 +1,313 @@
+---
+additional_resources:
+- description: Webpage with all figures and tables
+  location: https://cms-results.web.cern.ch/cms-results/public-results/publications/B2G-16-015/
+- description: arXiv
+  location: https://arxiv.org/abs/1704.03366
+comment: A search for the production of heavy resonances decayinginto top quark-antiquark
+  pairs is presented. The analysis is performed in thelepton+jets and fully hadronic
+  channels usingdata collected in proton-proton collisions at$\sqrt{s}=13\TeV$ using
+  the CMS detector at the LHC, corresponding to an integrated luminosity of 2.6\fbinv.
+  The selection isoptimized for massive resonances, where the top quarks have largeLorentz
+  boosts. No evidence for resonant \ttbarproduction is found in the data, and upper
+  limits on the production cross sectionof heavy resonances are set. The exclusion
+  limits forresonances with masses above 2\TeV are significantly improvedcompared
+  to those of previous analyses at $\sqrt{s}=8\TeV$.
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+record_ids:
+- id: 1591147
+  type: inspire
+---
+additional_resources:
+- description: Image file
+  location: Figure_004-a.png
+- description: Thumbnail image file
+  location: thumb_Figure_004-a.png
+data_file: figure_4a.yaml
+description: Distributions in $\mttbar$for data and expected background, for events
+  passingthe signal selection of the lepton+jets analysis ($\chi^{2}<30$) after the
+  maximum likelihood fit.Distributions are shown for the muon (left) and electron
+  (right) channel.For each lepton flavor, events are split into three exclusive categories(from
+  uppermost to lowest):$\It$,$\OtIb$, and$\OtOb$.The signal templates are normalized
+  to a cross section of 1\unit{pb}.The uncertainties associated with the background
+  expectation includethe statistical and all post-fit systematic uncertainties.The
+  lower panel in each figure shows the ratio of data to predicted SM background, withthe
+  statistical (light gray) andtotal (dark gray) uncertainties shown separately.
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 4 (upper left), located on page 13.
+name: Figure 4a
+---
+additional_resources:
+- description: Image file
+  location: Figure_004-b.png
+- description: Thumbnail image file
+  location: thumb_Figure_004-b.png
+data_file: figure_4b.yaml
+description: Distributions in $\mttbar$for data and expected background, for events
+  passingthe signal selection of the lepton+jets analysis ($\chi^{2}<30$) after the
+  maximum likelihood fit.Distributions are shown for the muon (left) and electron
+  (right) channel.For each lepton flavor, events are split into three exclusive categories(from
+  uppermost to lowest):$\It$,$\OtIb$, and$\OtOb$.The signal templates are normalized
+  to a cross section of 1\unit{pb}.The uncertainties associated with the background
+  expectation includethe statistical and all post-fit systematic uncertainties.The
+  lower panel in each figure shows the ratio of data to predicted SM background, withthe
+  statistical (light gray) andtotal (dark gray) uncertainties shown separately.
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 4 (upper right), located on page 13.
+name: Figure 4b
+---
+additional_resources:
+- description: Image file
+  location: Figure_004-c.png
+- description: Thumbnail image file
+  location: thumb_Figure_004-c.png
+data_file: figure_4c.yaml
+description: Distributions in $\mttbar$for data and expected background, for events
+  passingthe signal selection of the lepton+jets analysis ($\chi^{2}<30$) after the
+  maximum likelihood fit.Distributions are shown for the muon (left) and electron
+  (right) channel.For each lepton flavor, events are split into three exclusive categories(from
+  uppermost to lowest):$\It$,$\OtIb$, and$\OtOb$.The signal templates are normalized
+  to a cross section of 1\unit{pb}.The uncertainties associated with the background
+  expectation includethe statistical and all post-fit systematic uncertainties.The
+  lower panel in each figure shows the ratio of data to predicted SM background, withthe
+  statistical (light gray) andtotal (dark gray) uncertainties shown separately.
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 4 (middle left), located on page 13.
+name: Figure 4c
+---
+additional_resources:
+- description: Image file
+  location: Figure_004-d.png
+- description: Thumbnail image file
+  location: thumb_Figure_004-d.png
+data_file: figure_4d.yaml
+description: Distributions in $\mttbar$for data and expected background, for events
+  passingthe signal selection of the lepton+jets analysis ($\chi^{2}<30$) after the
+  maximum likelihood fit.Distributions are shown for the muon (left) and electron
+  (right) channel.For each lepton flavor, events are split into three exclusive categories(from
+  uppermost to lowest):$\It$,$\OtIb$, and$\OtOb$.The signal templates are normalized
+  to a cross section of 1\unit{pb}.The uncertainties associated with the background
+  expectation includethe statistical and all post-fit systematic uncertainties.The
+  lower panel in each figure shows the ratio of data to predicted SM background, withthe
+  statistical (light gray) andtotal (dark gray) uncertainties shown separately.
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 4 (middle right), located on page 13.
+name: Figure 4d
+---
+additional_resources:
+- description: Image file
+  location: Figure_004-e.png
+- description: Thumbnail image file
+  location: thumb_Figure_004-e.png
+data_file: figure_4e.yaml
+description: Distributions in $\mttbar$for data and expected background, for events
+  passingthe signal selection of the lepton+jets analysis ($\chi^{2}<30$) after the
+  maximum likelihood fit.Distributions are shown for the muon (left) and electron
+  (right) channel.For each lepton flavor, events are split into three exclusive categories(from
+  uppermost to lowest):$\It$,$\OtIb$, and$\OtOb$.The signal templates are normalized
+  to a cross section of 1\unit{pb}.The uncertainties associated with the background
+  expectation includethe statistical and all post-fit systematic uncertainties.The
+  lower panel in each figure shows the ratio of data to predicted SM background, withthe
+  statistical (light gray) andtotal (dark gray) uncertainties shown separately.
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 4 (lower left), located on page 13.
+name: Figure 4e
+---
+additional_resources:
+- description: Image file
+  location: Figure_004-f.png
+- description: Thumbnail image file
+  location: thumb_Figure_004-f.png
+data_file: figure_4f.yaml
+description: Distributions in $\mttbar$for data and expected background, for events
+  passingthe signal selection of the lepton+jets analysis ($\chi^{2}<30$) after the
+  maximum likelihood fit.Distributions are shown for the muon (left) and electron
+  (right) channel.For each lepton flavor, events are split into three exclusive categories(from
+  uppermost to lowest):$\It$,$\OtIb$, and$\OtOb$.The signal templates are normalized
+  to a cross section of 1\unit{pb}.The uncertainties associated with the background
+  expectation includethe statistical and all post-fit systematic uncertainties.The
+  lower panel in each figure shows the ratio of data to predicted SM background, withthe
+  statistical (light gray) andtotal (dark gray) uncertainties shown separately.
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 4 (lower right), located on page 13.
+name: Figure 4f
+---
+additional_resources:
+- description: Image file
+  location: Figure_005-a.png
+- description: Thumbnail image file
+  location: thumb_Figure_005-a.png
+data_file: figure_5a.yaml
+description: "Distributions in $\\mttbar$for data and expected background, for events\
+  \ passingthe signal selection of the fully hadronic analysis after the maximum likelihood\
+  \ fit.Distributions are shown for the regions with $\abs{\\Delta y} <1.0$ (left)\
+  \ and $\abs{\\Delta y} > 1.0$ (right), for 0, 1, or 2subjet b tags (from uppermost\
+  \ to lowest).The signal templates are normalized to a cross section of 1\\unit{pb}.The\
+  \ uncertainties associated with the background expectation includethe statistical\
+  \ and all post-fit systematic uncertainties.The lower panel in each figure shows\
+  \ the ratio of data to predicted SM background, with the statistical (light gray)\
+  \ and total (dark gray)uncertainties shown separately."
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 5 (upper left), located on page 14.
+name: Figure 5a
+---
+additional_resources:
+- description: Image file
+  location: Figure_005-b.png
+- description: Thumbnail image file
+  location: thumb_Figure_005-b.png
+data_file: figure_5b.yaml
+description: "Distributions in $\\mttbar$for data and expected background, for events\
+  \ passingthe signal selection of the fully hadronic analysis after the maximum likelihood\
+  \ fit.Distributions are shown for the regions with $\abs{\\Delta y} <1.0$ (left)\
+  \ and $\abs{\\Delta y} > 1.0$ (right), for 0, 1, or 2subjet b tags (from uppermost\
+  \ to lowest).The signal templates are normalized to a cross section of 1\\unit{pb}.The\
+  \ uncertainties associated with the background expectation includethe statistical\
+  \ and all post-fit systematic uncertainties.The lower panel in each figure shows\
+  \ the ratio of data to predicted SM background, with the statistical (light gray)\
+  \ and total (dark gray)uncertainties shown separately."
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 5 (upper right), located on page 14.
+name: Figure 5b
+---
+additional_resources:
+- description: Image file
+  location: Figure_005-c.png
+- description: Thumbnail image file
+  location: thumb_Figure_005-c.png
+data_file: figure_5c.yaml
+description: "Distributions in $\\mttbar$for data and expected background, for events\
+  \ passingthe signal selection of the fully hadronic analysis after the maximum likelihood\
+  \ fit.Distributions are shown for the regions with $\abs{\\Delta y} <1.0$ (left)\
+  \ and $\abs{\\Delta y} > 1.0$ (right), for 0, 1, or 2subjet b tags (from uppermost\
+  \ to lowest).The signal templates are normalized to a cross section of 1\\unit{pb}.The\
+  \ uncertainties associated with the background expectation includethe statistical\
+  \ and all post-fit systematic uncertainties.The lower panel in each figure shows\
+  \ the ratio of data to predicted SM background, with the statistical (light gray)\
+  \ and total (dark gray)uncertainties shown separately."
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 5 (middle left), located on page 14.
+name: Figure 5c
+---
+additional_resources:
+- description: Image file
+  location: Figure_005-d.png
+- description: Thumbnail image file
+  location: thumb_Figure_005-d.png
+data_file: figure_5d.yaml
+description: "Distributions in $\\mttbar$for data and expected background, for events\
+  \ passingthe signal selection of the fully hadronic analysis after the maximum likelihood\
+  \ fit.Distributions are shown for the regions with $\abs{\\Delta y} <1.0$ (left)\
+  \ and $\abs{\\Delta y} > 1.0$ (right), for 0, 1, or 2subjet b tags (from uppermost\
+  \ to lowest).The signal templates are normalized to a cross section of 1\\unit{pb}.The\
+  \ uncertainties associated with the background expectation includethe statistical\
+  \ and all post-fit systematic uncertainties.The lower panel in each figure shows\
+  \ the ratio of data to predicted SM background, with the statistical (light gray)\
+  \ and total (dark gray)uncertainties shown separately."
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 5 (middle right), located on page 14.
+name: Figure 5d
+---
+additional_resources:
+- description: Image file
+  location: Figure_005-e.png
+- description: Thumbnail image file
+  location: thumb_Figure_005-e.png
+data_file: figure_5e.yaml
+description: "Distributions in $\\mttbar$for data and expected background, for events\
+  \ passingthe signal selection of the fully hadronic analysis after the maximum likelihood\
+  \ fit.Distributions are shown for the regions with $\abs{\\Delta y} <1.0$ (left)\
+  \ and $\abs{\\Delta y} > 1.0$ (right), for 0, 1, or 2subjet b tags (from uppermost\
+  \ to lowest).The signal templates are normalized to a cross section of 1\\unit{pb}.The\
+  \ uncertainties associated with the background expectation includethe statistical\
+  \ and all post-fit systematic uncertainties.The lower panel in each figure shows\
+  \ the ratio of data to predicted SM background, with the statistical (light gray)\
+  \ and total (dark gray)uncertainties shown separately."
+keywords:
+- name: observables
+  values:
+  - N
+location: Data from Figure 5 (lower left), located on page 14.
+name: Figure 5e
+---
+additional_resources:
+- description: Image file
+  location: Figure_006-a.png
+- description: Thumbnail image file
+  location: thumb_Figure_006-a.png
+data_file: table_6.yaml
+description: Expected and observed cross section limits at 95% CL, for the 1\% width
+  Zprime resonance hypothesis.
+keywords: []
+location: Table 6, page 19
+name: Table 6
+---
+additional_resources:
+- description: Image file
+  location: Figure_006-b.png
+- description: Thumbnail image file
+  location: thumb_Figure_006-b.png
+data_file: table_7.yaml
+description: Expected and observed cross section limits at 95% CL, for the 10\% width
+  Zprime resonance hypothesis.
+keywords: []
+location: Table 7, page 19
+name: Table 7
+---
+additional_resources:
+- description: Image file
+  location: Figure_006-c.png
+- description: Thumbnail image file
+  location: thumb_Figure_006-c.png
+data_file: table_8.yaml
+description: Expected and observed cross section limits at 95% CL, for the 30\% width
+  Zprime resonance hypothesis.
+keywords: []
+location: Table 8, page 19
+name: Table 8
+---
+additional_resources:
+- description: Image file
+  location: Figure_006-d.png
+- description: Thumbnail image file
+  location: thumb_Figure_006-d.png
+data_file: table_9.yaml
+description: Expected and observed cross section limits at 95% CL, for the RS KK gluon
+  resonance hypothesis.
+keywords: []
+location: Table 9, page 20
+name: Table 9

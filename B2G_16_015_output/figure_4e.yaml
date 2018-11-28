@@ -1,0 +1,2414 @@
+dependent_variables:
+- header:
+    name: Number of _zpn0500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.23592
+  - value: 1.3088
+  - value: 1.5434
+  - value: 0.73352
+  - value: 0.28682
+  - value: 0.067273
+  - value: 0.034491
+  - value: 0.00081336
+  - value: 0.013093
+  - value: 0.037908
+  - value: 0.062373
+  - value: 0.0042003
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn0750 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.97922
+  - value: 4.0394
+  - value: 5.2238
+  - value: 9.4387
+  - value: 13.4
+  - value: 4.8912
+  - value: 0.47922
+  - value: 0.13327
+  - value: 0.16345
+  - value: 0.010388
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.046527
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn1000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.69136
+  - value: 3.9937
+  - value: 5.6031
+  - value: 6.0163
+  - value: 7.0794
+  - value: 11.501
+  - value: 22.817
+  - value: 13.327
+  - value: 2.8262
+  - value: 0.49363
+  - value: 0.14012
+  - value: 0.064439
+  - value: 0.011204
+  - value: 0.0021448
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.00012101
+  - value: 0
+  - value: 0
+  - value: 0.05943
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn1250 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.9996
+  - value: 3.2429
+  - value: 5.2355
+  - value: 5.7923
+  - value: 5.7806
+  - value: 5.7026
+  - value: 7.137
+  - value: 8.6616
+  - value: 14.96
+  - value: 13.041
+  - value: 5.1279
+  - value: 1.0191
+  - value: 0.49422
+  - value: 0.12416
+  - value: 0.16722
+  - value: 0.045137
+  - value: 0.00038179
+  - value: 0.061522
+  - value: 0.0024271
+  - value: 0
+  - value: 0.038004
+  - value: 0.087112
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn1500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.076308
+  - value: 1.0515
+  - value: 3.3466
+  - value: 4.4511
+  - value: 3.9562
+  - value: 4.5027
+  - value: 4.8431
+  - value: 4.6302
+  - value: 4.7789
+  - value: 5.3787
+  - value: 6.2933
+  - value: 11.447
+  - value: 12.54
+  - value: 6.9052
+  - value: 2.62
+  - value: 0.95451
+  - value: 0.20695
+  - value: 0.094267
+  - value: 0.040176
+  - value: 0.00011482
+  - value: 0.024654
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.061887
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn2000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.047712
+  - value: 1.1629
+  - value: 2.7233
+  - value: 3.2427
+  - value: 4.002
+  - value: 3.7658
+  - value: 3.8368
+  - value: 3.8704
+  - value: 2.8088
+  - value: 3.0731
+  - value: 2.9354
+  - value: 3.0116
+  - value: 3.0544
+  - value: 4.4212
+  - value: 4.656
+  - value: 6.4787
+  - value: 8.696
+  - value: 9.8221
+  - value: 5.9655
+  - value: 2.288
+  - value: 0.84921
+  - value: 0.16755
+  - value: 0.043438
+  - value: 0.03275
+  - value: 0.030903
+  - value: 0
+  - value: 0.019689
+  - value: 0.00013031
+  - value: 0
+  - value: 0.031569
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.017859
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn2500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.064258
+  - value: 1.1998
+  - value: 2.2492
+  - value: 3.7386
+  - value: 2.6936
+  - value: 3.3503
+  - value: 4.1144
+  - value: 3.0737
+  - value: 3.0688
+  - value: 2.8622
+  - value: 2.2646
+  - value: 2.3222
+  - value: 2.4479
+  - value: 2.6235
+  - value: 2.9384
+  - value: 2.2606
+  - value: 2.8092
+  - value: 3.2673
+  - value: 4.079
+  - value: 4.8547
+  - value: 6.2856
+  - value: 7.2423
+  - value: 7.7154
+  - value: 4.0287
+  - value: 2.6898
+  - value: 0.54469
+  - value: 0.17403
+  - value: 0.095761
+  - value: 0.045422
+  - value: 0.20658
+  - value: 0.039539
+  - value: 0.00020141
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn3000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.94289
+  - value: 2.1659
+  - value: 2.672
+  - value: 3.4301
+  - value: 3.8866
+  - value: 3.0248
+  - value: 2.5629
+  - value: 3.0847
+  - value: 2.6078
+  - value: 2.4703
+  - value: 1.9913
+  - value: 2.3422
+  - value: 1.6825
+  - value: 1.7128
+  - value: 1.8525
+  - value: 1.9878
+  - value: 2.0404
+  - value: 2.2762
+  - value: 2.7941
+  - value: 1.7772
+  - value: 3.2392
+  - value: 3.1693
+  - value: 3.1593
+  - value: 4.8098
+  - value: 5.6787
+  - value: 7.2153
+  - value: 6.1153
+  - value: 4.1853
+  - value: 2.0769
+  - value: 0.84333
+  - value: 0.48734
+  - value: 0.21589
+  - value: 0.025832
+  - value: 0
+  - value: 0.012022
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn3500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.054692
+  - value: 1.1182
+  - value: 1.9769
+  - value: 2.2158
+  - value: 3.6982
+  - value: 3.2329
+  - value: 2.7454
+  - value: 3.0078
+  - value: 2.6608
+  - value: 2.4456
+  - value: 2.0812
+  - value: 1.907
+  - value: 1.8831
+  - value: 1.461
+  - value: 1.8027
+  - value: 1.2646
+  - value: 1.7635
+  - value: 1.5268
+  - value: 1.8353
+  - value: 1.0868
+  - value: 1.4944
+  - value: 1.4054
+  - value: 2.1637
+  - value: 2.0001
+  - value: 2.6228
+  - value: 2.278
+  - value: 2.4566
+  - value: 2.2723
+  - value: 4.2642
+  - value: 3.5767
+  - value: 5.446
+  - value: 5.8581
+  - value: 5.2432
+  - value: 3.4677
+  - value: 1.583
+  - value: 1.2271
+  - value: 0.204
+  - value: 0.17647
+  - value: 0
+  - value: 0
+  - value: 0.012283
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _zpn4000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.078835
+  - value: 0.98368
+  - value: 2.005
+  - value: 2.3212
+  - value: 2.5967
+  - value: 3.2444
+  - value: 3.1581
+  - value: 3.311
+  - value: 3.0042
+  - value: 2.477
+  - value: 2.0285
+  - value: 2.0895
+  - value: 1.6751
+  - value: 1.533
+  - value: 1.2549
+  - value: 1.0624
+  - value: 1.1238
+  - value: 1.6628
+  - value: 1.5948
+  - value: 1.7249
+  - value: 1.4749
+  - value: 1.1175
+  - value: 1.3508
+  - value: 1.1531
+  - value: 1.4476
+  - value: 1.3478
+  - value: 1.4187
+  - value: 1.2958
+  - value: 2.1119
+  - value: 2.3893
+  - value: 1.7831
+  - value: 2.2657
+  - value: 2.8244
+  - value: 3.0266
+  - value: 3.5675
+  - value: 4.083
+  - value: 5.029
+  - value: 3.6408
+  - value: 2.241
+  - value: 1.167
+  - value: 0.69322
+  - value: 0.45315
+  - value: 0.12016
+  - value: 0.12497
+  - value: 0
+  - value: 0
+  - value: 5.4214e-05
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of _ttbar events in l+jets / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.54864
+    value: 6.7023
+  - errors:
+    - label: total uncertainty
+      symerror: 4.2554
+    value: 356.4
+  - errors:
+    - label: total uncertainty
+      symerror: 8.2905
+    value: 1358.6
+  - errors:
+    - label: total uncertainty
+      symerror: 9.3522
+    value: 1694.2
+  - errors:
+    - label: total uncertainty
+      symerror: 9.1829
+    value: 1475.1
+  - errors:
+    - label: total uncertainty
+      symerror: 9.0278
+    value: 1097.8
+  - errors:
+    - label: total uncertainty
+      symerror: 7.6199
+    value: 730.08
+  - errors:
+    - label: total uncertainty
+      symerror: 6.0542
+    value: 462.63
+  - errors:
+    - label: total uncertainty
+      symerror: 4.3807
+    value: 298.85
+  - errors:
+    - label: total uncertainty
+      symerror: 3.0719
+    value: 177.87
+  - errors:
+    - label: total uncertainty
+      symerror: 2.4601
+    value: 114.39
+  - errors:
+    - label: total uncertainty
+      symerror: 1.925
+    value: 74.563
+  - errors:
+    - label: total uncertainty
+      symerror: 1.5434
+    value: 46.817
+  - errors:
+    - label: total uncertainty
+      symerror: 1.2415
+    value: 31.506
+  - errors:
+    - label: total uncertainty
+      symerror: 0.96826
+    value: 19.424
+  - errors:
+    - label: total uncertainty
+      symerror: 0.87189
+    value: 15.841
+  - errors:
+    - label: total uncertainty
+      symerror: 0.73543
+    value: 10.748
+  - errors:
+    - label: total uncertainty
+      symerror: 0.56435
+    value: 7.133
+  - errors:
+    - label: total uncertainty
+      symerror: 0.4285
+    value: 4.1471
+  - errors:
+    - label: total uncertainty
+      symerror: 0.45191
+    value: 3.8631
+  - errors:
+    - label: total uncertainty
+      symerror: 0.34599
+    value: 2.5157
+  - errors:
+    - label: total uncertainty
+      symerror: 0.34075
+    value: 2.0956
+  - errors:
+    - label: total uncertainty
+      symerror: 0.28127
+    value: 1.4254
+  - errors:
+    - label: total uncertainty
+      symerror: 0.22126
+    value: 1.0404
+  - errors:
+    - label: total uncertainty
+      symerror: 0.20095
+    value: 0.9263
+  - errors:
+    - label: total uncertainty
+      symerror: 0.12689
+    value: 0.39028
+  - errors:
+    - label: total uncertainty
+      symerror: 0.093393
+    value: 0.2112
+  - errors:
+    - label: total uncertainty
+      symerror: 0.1616
+    value: 0.39855
+  - errors:
+    - label: total uncertainty
+      symerror: 0.11493
+    value: 0.28974
+  - errors:
+    - label: total uncertainty
+      symerror: 0.078718
+    value: 0.13825
+  - errors:
+    - label: total uncertainty
+      symerror: 0.07182
+    value: 0.13685
+  - errors:
+    - label: total uncertainty
+      symerror: 0.046613
+    value: 0.072751
+  - errors:
+    - label: total uncertainty
+      symerror: 0.032416
+    value: 0.042511
+  - errors:
+    - label: total uncertainty
+      symerror: 0.010313
+    value: 0.01138
+  - errors:
+    - label: total uncertainty
+      symerror: 0.09403
+    value: 0.1792
+  - errors:
+    - label: total uncertainty
+      symerror: 0.01092
+    value: 0.01092
+  - errors:
+    - label: total uncertainty
+      symerror: 0.02041
+    value: 0.021732
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.055763
+    value: 0.055958
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.021386
+    value: 0.021386
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0023552
+    value: 0.0023552
+  - errors:
+    - label: total uncertainty
+      symerror: 0.051263
+    value: 0.051263
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0012029
+    value: 0.0014385
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+- header:
+    name: Number of _dibos events in l+jets / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.97441
+    value: 1.4018
+  - errors:
+    - label: total uncertainty
+      symerror: 1.0988
+    value: 2.3184
+  - errors:
+    - label: total uncertainty
+      symerror: 1.5976
+    value: 5.8802
+  - errors:
+    - label: total uncertainty
+      symerror: 0.90458
+    value: 2.4317
+  - errors:
+    - label: total uncertainty
+      symerror: 0.72887
+    value: 1.6948
+  - errors:
+    - label: total uncertainty
+      symerror: 1.1573
+    value: 2.4131
+  - errors:
+    - label: total uncertainty
+      symerror: 0.93112
+    value: 1.5983
+  - errors:
+    - label: total uncertainty
+      symerror: 0.25314
+    value: 0.25314
+  - errors:
+    - label: total uncertainty
+      symerror: 9.7757e-06
+    value: 9.7757e-06
+  - errors:
+    - label: total uncertainty
+      symerror: 0.012496
+    value: 0.012973
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.064212
+    value: 0.066568
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.29263
+    value: 0.29263
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+- header:
+    name: Number of _zjets events in l+jets / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.021679
+    value: 0.03903
+  - errors:
+    - label: total uncertainty
+      symerror: 0.369
+    value: 3.0852
+  - errors:
+    - label: total uncertainty
+      symerror: 0.95921
+    value: 12.094
+  - errors:
+    - label: total uncertainty
+      symerror: 1.3291
+    value: 17.407
+  - errors:
+    - label: total uncertainty
+      symerror: 1.1488
+    value: 13.264
+  - errors:
+    - label: total uncertainty
+      symerror: 0.86099
+    value: 8.5395
+  - errors:
+    - label: total uncertainty
+      symerror: 0.74282
+    value: 5.8838
+  - errors:
+    - label: total uncertainty
+      symerror: 0.23414
+    value: 2.8072
+  - errors:
+    - label: total uncertainty
+      symerror: 0.34811
+    value: 2.3102
+  - errors:
+    - label: total uncertainty
+      symerror: 0.33594
+    value: 1.8643
+  - errors:
+    - label: total uncertainty
+      symerror: 0.11954
+    value: 0.77672
+  - errors:
+    - label: total uncertainty
+      symerror: 0.09546
+    value: 0.55686
+  - errors:
+    - label: total uncertainty
+      symerror: 0.089272
+    value: 0.45505
+  - errors:
+    - label: total uncertainty
+      symerror: 0.06889
+    value: 0.32806
+  - errors:
+    - label: total uncertainty
+      symerror: 0.095717
+    value: 0.40132
+  - errors:
+    - label: total uncertainty
+      symerror: 0.074783
+    value: 0.24826
+  - errors:
+    - label: total uncertainty
+      symerror: 0.2731
+    value: 0.33885
+  - errors:
+    - label: total uncertainty
+      symerror: 0.043897
+    value: 0.10584
+  - errors:
+    - label: total uncertainty
+      symerror: 0.063303
+    value: 0.16809
+  - errors:
+    - label: total uncertainty
+      symerror: 0.021588
+    value: 0.037452
+  - errors:
+    - label: total uncertainty
+      symerror: 0.030254
+    value: 0.065949
+  - errors:
+    - label: total uncertainty
+      symerror: 0.023676
+    value: 0.03435
+  - errors:
+    - label: total uncertainty
+      symerror: 0.014695
+    value: 0.01849
+  - errors:
+    - label: total uncertainty
+      symerror: 3.195e-05
+    value: 3.195e-05
+  - errors:
+    - label: total uncertainty
+      symerror: 0.017559
+    value: 0.032441
+  - errors:
+    - label: total uncertainty
+      symerror: 0.011597
+    value: 0.016136
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0067719
+    value: 0.0069314
+  - errors:
+    - label: total uncertainty
+      symerror: 0.016274
+    value: 0.017796
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00072367
+    value: 0.00072367
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00016983
+    value: 0.00016983
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0017005
+    value: 0.0018819
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0032446
+    value: 0.0032446
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.014281
+    value: 0.014281
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+- header:
+    name: Number of _sitop events in l+jets / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.44085
+    value: 0.36344
+  - errors:
+    - label: total uncertainty
+      symerror: 2.6554
+    value: 23.034
+  - errors:
+    - label: total uncertainty
+      symerror: 4.808
+    value: 87.502
+  - errors:
+    - label: total uncertainty
+      symerror: 5.5728
+    value: 126.67
+  - errors:
+    - label: total uncertainty
+      symerror: 5.5908
+    value: 127.31
+  - errors:
+    - label: total uncertainty
+      symerror: 4.2392
+    value: 77.239
+  - errors:
+    - label: total uncertainty
+      symerror: 3.6165
+    value: 54.673
+  - errors:
+    - label: total uncertainty
+      symerror: 2.7677
+    value: 31.57
+  - errors:
+    - label: total uncertainty
+      symerror: 2.2767
+    value: 23.858
+  - errors:
+    - label: total uncertainty
+      symerror: 1.8565
+    value: 12.644
+  - errors:
+    - label: total uncertainty
+      symerror: 1.4201
+    value: 6.8752
+  - errors:
+    - label: total uncertainty
+      symerror: 1.2759
+    value: 7.9306
+  - errors:
+    - label: total uncertainty
+      symerror: 0.93236
+    value: 2.0248
+  - errors:
+    - label: total uncertainty
+      symerror: 0.66543
+    value: 1.9256
+  - errors:
+    - label: total uncertainty
+      symerror: 0.86115
+    value: 2.3932
+  - errors:
+    - label: total uncertainty
+      symerror: 0.63867
+    value: 1.4454
+  - errors:
+    - label: total uncertainty
+      symerror: 0.58999
+    value: 1.5477
+  - errors:
+    - label: total uncertainty
+      symerror: 0.36437
+    value: 0.03254
+  - errors:
+    - label: total uncertainty
+      symerror: 0.29056
+    value: 0.31035
+  - errors:
+    - label: total uncertainty
+      symerror: 0.30014
+    value: 0.14524
+  - errors:
+    - label: total uncertainty
+      symerror: 0.16865
+    value: 0.11136
+  - errors:
+    - label: total uncertainty
+      symerror: 0.17921
+    value: 0.31842
+  - errors:
+    - label: total uncertainty
+      symerror: 0.16336
+    value: 0.30164
+  - errors:
+    - label: total uncertainty
+      symerror: 0.27107
+    value: 0.41722
+  - errors:
+    - label: total uncertainty
+      symerror: 0.20706
+    value: -0.085592
+  - errors:
+    - label: total uncertainty
+      symerror: 0.010021
+    value: -0.0078595
+  - errors:
+    - label: total uncertainty
+      symerror: 0.13536
+    value: 0.018576
+  - errors:
+    - label: total uncertainty
+      symerror: 0.16105
+    value: -0.17255
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0020337
+    value: 0.0022408
+  - errors:
+    - label: total uncertainty
+      symerror: 0.10876
+    value: 0.1404
+  - errors:
+    - label: total uncertainty
+      symerror: 0.064273
+    value: 0.064304
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.10612
+    value: -0.10612
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00073041
+    value: 0.00073041
+  - errors:
+    - label: total uncertainty
+      symerror: 3.1089e-05
+    value: -3.1089e-05
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0020034
+    value: 0.0020034
+  - errors:
+    - label: total uncertainty
+      symerror: 0.079851
+    value: -0.079851
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.043913
+    value: 0.043913
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+- header:
+    name: Number of _wjetH events in l+jets / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.063991
+    value: 0.18515
+  - errors:
+    - label: total uncertainty
+      symerror: 1.1968
+    value: 7.4645
+  - errors:
+    - label: total uncertainty
+      symerror: 2.8979
+    value: 36.484
+  - errors:
+    - label: total uncertainty
+      symerror: 4.0411
+    value: 63.781
+  - errors:
+    - label: total uncertainty
+      symerror: 3.7251
+    value: 59.034
+  - errors:
+    - label: total uncertainty
+      symerror: 2.9484
+    value: 37.924
+  - errors:
+    - label: total uncertainty
+      symerror: 2.2204
+    value: 24.623
+  - errors:
+    - label: total uncertainty
+      symerror: 1.3556
+    value: 16.186
+  - errors:
+    - label: total uncertainty
+      symerror: 1.2316
+    value: 10.389
+  - errors:
+    - label: total uncertainty
+      symerror: 0.92212
+    value: 6.9077
+  - errors:
+    - label: total uncertainty
+      symerror: 0.81077
+    value: 5.0811
+  - errors:
+    - label: total uncertainty
+      symerror: 0.56181
+    value: 3.1116
+  - errors:
+    - label: total uncertainty
+      symerror: 0.4466
+    value: 2.2921
+  - errors:
+    - label: total uncertainty
+      symerror: 0.31954
+    value: 1.7234
+  - errors:
+    - label: total uncertainty
+      symerror: 0.29015
+    value: 1.2163
+  - errors:
+    - label: total uncertainty
+      symerror: 0.17022
+    value: 0.88428
+  - errors:
+    - label: total uncertainty
+      symerror: 0.11157
+    value: 0.48944
+  - errors:
+    - label: total uncertainty
+      symerror: 0.096666
+    value: 0.38632
+  - errors:
+    - label: total uncertainty
+      symerror: 0.099474
+    value: 0.34948
+  - errors:
+    - label: total uncertainty
+      symerror: 0.07634
+    value: 0.2159
+  - errors:
+    - label: total uncertainty
+      symerror: 0.066714
+    value: 0.20318
+  - errors:
+    - label: total uncertainty
+      symerror: 0.072044
+    value: 0.17597
+  - errors:
+    - label: total uncertainty
+      symerror: 0.015811
+    value: 0.028983
+  - errors:
+    - label: total uncertainty
+      symerror: 0.028929
+    value: 0.056569
+  - errors:
+    - label: total uncertainty
+      symerror: 0.05652
+    value: 0.10668
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0040584
+    value: 0.0071067
+  - errors:
+    - label: total uncertainty
+      symerror: 0.014673
+    value: 0.015574
+  - errors:
+    - label: total uncertainty
+      symerror: 0.045237
+    value: 0.049998
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0002563
+    value: 0.00025807
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0063766
+    value: 0.0071962
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00096705
+    value: 0.0015351
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0027782
+    value: 0.0031088
+  - errors:
+    - label: total uncertainty
+      symerror: 0.035283
+    value: 0.052091
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.02347
+    value: 0.024482
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0011996
+    value: 0.0016574
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.031827
+    value: 0.032254
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00074209
+    value: 0.00074209
+  - errors:
+    - label: total uncertainty
+      symerror: 0.038282
+    value: 0.038282
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00021716
+    value: 0.00021716
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00010523
+    value: 0.00010523
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+- header:
+    name: Number of _wjetL events in l+jets / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.065437
+    value: 0.22777
+  - errors:
+    - label: total uncertainty
+      symerror: 1.5447
+    value: 15.248
+  - errors:
+    - label: total uncertainty
+      symerror: 3.3757
+    value: 60.565
+  - errors:
+    - label: total uncertainty
+      symerror: 4.7655
+    value: 94.878
+  - errors:
+    - label: total uncertainty
+      symerror: 4.8384
+    value: 99.506
+  - errors:
+    - label: total uncertainty
+      symerror: 3.3276
+    value: 61.948
+  - errors:
+    - label: total uncertainty
+      symerror: 2.6397
+    value: 42.944
+  - errors:
+    - label: total uncertainty
+      symerror: 1.9382
+    value: 29.609
+  - errors:
+    - label: total uncertainty
+      symerror: 1.9119
+    value: 25.807
+  - errors:
+    - label: total uncertainty
+      symerror: 1.1494
+    value: 15.163
+  - errors:
+    - label: total uncertainty
+      symerror: 0.92027
+    value: 11.214
+  - errors:
+    - label: total uncertainty
+      symerror: 0.90634
+    value: 9.4817
+  - errors:
+    - label: total uncertainty
+      symerror: 0.62517
+    value: 5.7047
+  - errors:
+    - label: total uncertainty
+      symerror: 0.66594
+    value: 4.9251
+  - errors:
+    - label: total uncertainty
+      symerror: 0.30514
+    value: 3.331
+  - errors:
+    - label: total uncertainty
+      symerror: 0.67169
+    value: 3.2453
+  - errors:
+    - label: total uncertainty
+      symerror: 0.37904
+    value: 2.5856
+  - errors:
+    - label: total uncertainty
+      symerror: 0.17033
+    value: 1.2143
+  - errors:
+    - label: total uncertainty
+      symerror: 0.1779
+    value: 0.83586
+  - errors:
+    - label: total uncertainty
+      symerror: 0.16476
+    value: 1.0017
+  - errors:
+    - label: total uncertainty
+      symerror: 0.34241
+    value: 1.2443
+  - errors:
+    - label: total uncertainty
+      symerror: 0.10421
+    value: 0.44702
+  - errors:
+    - label: total uncertainty
+      symerror: 0.28693
+    value: 0.66805
+  - errors:
+    - label: total uncertainty
+      symerror: 0.089502
+    value: 0.29832
+  - errors:
+    - label: total uncertainty
+      symerror: 0.044115
+    value: 0.099128
+  - errors:
+    - label: total uncertainty
+      symerror: 0.23207
+    value: 0.49917
+  - errors:
+    - label: total uncertainty
+      symerror: 0.046139
+    value: 0.12127
+  - errors:
+    - label: total uncertainty
+      symerror: 0.077306
+    value: 0.21454
+  - errors:
+    - label: total uncertainty
+      symerror: 0.069494
+    value: 0.14878
+  - errors:
+    - label: total uncertainty
+      symerror: 0.036775
+    value: 0.040482
+  - errors:
+    - label: total uncertainty
+      symerror: 0.035789
+    value: 0.05814
+  - errors:
+    - label: total uncertainty
+      symerror: 0.021484
+    value: 0.035202
+  - errors:
+    - label: total uncertainty
+      symerror: 0.049009
+    value: 0.069926
+  - errors:
+    - label: total uncertainty
+      symerror: 0.048877
+    value: 0.066343
+  - errors:
+    - label: total uncertainty
+      symerror: 0.028904
+    value: 0.038907
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0011669
+    value: 0.0018735
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0012393
+    value: 0.0018272
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0537
+    value: 0.092137
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0014967
+    value: 0.0021123
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0013554
+    value: 0.0021148
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00067242
+    value: 0.00070548
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0012949
+    value: 0.0018597
+  - errors:
+    - label: total uncertainty
+      symerror: 0.046991
+    value: 0.048419
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0010628
+    value: 0.0017116
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0014691
+    value: 0.0021465
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00066566
+    value: 0.00066566
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00042773
+    value: 0.00042773
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0085718
+    value: 0.011168
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0.0001063
+    value: 0.0001063
+  - errors:
+    - label: total uncertainty
+      symerror: 0.00057114
+    value: 0.00057336
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 4.934e-05
+    value: 4.934e-05
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+  - errors:
+    - label: total uncertainty
+      symerror: 8.4293e-06
+    value: 8.4293e-06
+  - errors:
+    - label: total uncertainty
+      symerror: 0
+    value: 0
+- header:
+    name: Number of data events in l+jets / 100 GeV
+    units: ''
+  values:
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.7321
+    value: 3.0
+  - errors:
+    - label: Poisson errors
+      symerror: 20.543
+    value: 422.0
+  - errors:
+    - label: Poisson errors
+      symerror: 39.357
+    value: 1549.0
+  - errors:
+    - label: Poisson errors
+      symerror: 44.045
+    value: 1940.0
+  - errors:
+    - label: Poisson errors
+      symerror: 40.361
+    value: 1629.0
+  - errors:
+    - label: Poisson errors
+      symerror: 35.595
+    value: 1267.0
+  - errors:
+    - label: Poisson errors
+      symerror: 30.199
+    value: 912.0
+  - errors:
+    - label: Poisson errors
+      symerror: 22.672
+    value: 514.0
+  - errors:
+    - label: Poisson errors
+      symerror: 18.628
+    value: 347.0
+  - errors:
+    - label: Poisson errors
+      symerror: 15.1
+    value: 228.0
+  - errors:
+    - label: Poisson errors
+      symerror: 11.314
+    value: 128.0
+  - errors:
+    - label: Poisson errors
+      symerror: 9.6954
+    value: 94.0
+  - errors:
+    - label: Poisson errors
+      symerror: 7.874
+    value: 62.0
+  - errors:
+    - label: Poisson errors
+      symerror: 5.831
+    value: 34.0
+  - errors:
+    - label: Poisson errors
+      symerror: 5.6569
+    value: 32.0
+  - errors:
+    - label: Poisson errors
+      symerror: 3.873
+    value: 15.0
+  - errors:
+    - label: Poisson errors
+      symerror: 3.873
+    value: 15.0
+  - errors:
+    - label: Poisson errors
+      symerror: 2.6458
+    value: 7.0
+  - errors:
+    - label: Poisson errors
+      symerror: 2.4495
+    value: 6.0
+  - errors:
+    - label: Poisson errors
+      symerror: 2.4495
+    value: 6.0
+  - errors:
+    - label: Poisson errors
+      symerror: 2.0
+    value: 4.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.4142
+    value: 2.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.4142
+    value: 2.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.4142
+    value: 2.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.4142
+    value: 2.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.0
+    value: 1.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.7321
+    value: 3.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.7321
+    value: 3.0
+  - errors:
+    - label: Poisson errors
+      symerror: 1.0
+    value: 1.0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+  - errors:
+    - label: Poisson errors
+      symerror: 0
+    value: 0
+independent_variables:
+- header:
+    name: $M_{t\overline{t}}$
+    units: GeV
+  values:
+  - value: 50.0
+  - value: 150.0
+  - value: 250.0
+  - value: 350.0
+  - value: 450.0
+  - value: 550.0
+  - value: 650.0
+  - value: 750.0
+  - value: 850.0
+  - value: 950.0
+  - value: 1050.0
+  - value: 1150.0
+  - value: 1250.0
+  - value: 1350.0
+  - value: 1450.0
+  - value: 1550.0
+  - value: 1650.0
+  - value: 1750.0
+  - value: 1850.0
+  - value: 1950.0
+  - value: 2050.0
+  - value: 2150.0
+  - value: 2250.0
+  - value: 2350.0
+  - value: 2450.0
+  - value: 2550.0
+  - value: 2650.0
+  - value: 2750.0
+  - value: 2850.0
+  - value: 2950.0
+  - value: 3050.0
+  - value: 3150.0
+  - value: 3250.0
+  - value: 3350.0
+  - value: 3450.0
+  - value: 3550.0
+  - value: 3650.0
+  - value: 3750.0
+  - value: 3850.0
+  - value: 3950.0
+  - value: 4050.0
+  - value: 4150.0
+  - value: 4250.0
+  - value: 4350.0
+  - value: 4450.0
+  - value: 4550.0
+  - value: 4650.0
+  - value: 4750.0
+  - value: 4850.0
+  - value: 4950.0
+  - value: 5050.0
+  - value: 5150.0
+  - value: 5250.0
+  - value: 5350.0
+  - value: 5450.0
+  - value: 5550.0
+  - value: 5650.0
+  - value: 5750.0
+  - value: 5850.0
+  - value: 5950.0
