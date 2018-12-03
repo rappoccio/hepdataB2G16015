@@ -1,6 +1,6 @@
 dependent_variables:
 - header:
-    name: Number of _Zprime1000 events in all-had / 100 GeV
+    name: Number of Z', width=1%%, m=1000 events in all-had / 100 GeV
     units: ''
   values:
   - value: 0
@@ -13,93 +13,19 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 0
+  - value: 0.03015
+  - value: 0.41785
+  - value: 0.59994
+  - value: 0.099477
+  - value: 0.16795
+  - value: 0.04443
+  - value: 0.070446
   - value: 0
-  - value: 0.19536
-  - value: 0.12282
-  - value: 0.030556
-  - value: 0.017343
-  - value: 0.0013879
-  - value: 0.0002426
   - value: 0
-  - value: 0.00020771
   - value: 0
-  - value: 0.0081009
   - value: 0
   - value: 0
-  - value: 0
-  - value: 9.4179e-05
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-- header:
-    name: Number of _Zprime1250 events in all-had / 100 GeV
-    units: ''
-  values:
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0.079302
-  - value: 2.5121
-  - value: 8.3189
-  - value: 2.7626
-  - value: 0.50787
-  - value: 0.082732
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0.00043056
+  - value: 0.0097867
   - value: 0
   - value: 0
   - value: 0
@@ -148,7 +74,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _Zprime1500 events in all-had / 100 GeV
+    name: Number of Z', width=1%%, m=1250 events in all-had / 100 GeV
     units: ''
   values:
   - value: 0
@@ -161,19 +87,537 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 0
-  - value: 0.081375
-  - value: 0.2232
-  - value: 1.6752
-  - value: 4.7852
-  - value: 10.094
-  - value: 8.7193
-  - value: 1.5939
-  - value: 0.22324
-  - value: 0.039406
-  - value: 0.0088562
-  - value: 0.019226
+  - value: 0.10247
+  - value: 1.9281
+  - value: 3.1185
+  - value: 1.5646
+  - value: 0.91745
+  - value: 0.54539
+  - value: 0.32386
+  - value: 0.14167
+  - value: 0.06934
+  - value: 0.078679
+  - value: 1.1805e-06
+  - value: 0.039271
   - value: 0
   - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.039006
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.092584
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=1%%, m=1500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.66409
+  - value: 3.0384
+  - value: 4.0149
+  - value: 3.8329
+  - value: 2.7384
+  - value: 1.5317
+  - value: 0.93238
+  - value: 0.28665
+  - value: 0.21206
+  - value: 0.023721
+  - value: 6.4412e-07
+  - value: 0
+  - value: 0.00089079
+  - value: 0.0039756
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=1%%, m=2000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.12949
+  - value: 0.3355
+  - value: 0.70753
+  - value: 0.74782
+  - value: 1.9518
+  - value: 2.696
+  - value: 2.1878
+  - value: 2.5187
+  - value: 3.021
+  - value: 2.4799
+  - value: 2.0805
+  - value: 0.73473
+  - value: 0.56807
+  - value: 0.23397
+  - value: 0.22897
+  - value: 0.011881
+  - value: 0
+  - value: 0.048141
+  - value: 0.020563
+  - value: 0
+  - value: 0
+  - value: 0.00011792
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.094848
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=1%%, m=2500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.31809
+  - value: 0.61788
+  - value: 1.0117
+  - value: 0.96743
+  - value: 1.1635
+  - value: 1.3441
+  - value: 1.7139
+  - value: 0.99472
+  - value: 1.3218
+  - value: 1.7921
+  - value: 1.157
+  - value: 1.8264
+  - value: 2.0045
+  - value: 1.5603
+  - value: 1.1792
+  - value: 0.87779
+  - value: 0.39932
+  - value: 0.26784
+  - value: 0.093906
+  - value: 0
+  - value: 0.00011532
+  - value: 0.00098734
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=1%%, m=3000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0039358
+  - value: 0.23469
+  - value: 0.77158
+  - value: 0.72064
+  - value: 0.93018
+  - value: 0.5959
+  - value: 0.46933
+  - value: 0.72103
+  - value: 0.66318
+  - value: 1.0847
+  - value: 0.72516
+  - value: 0.72516
+  - value: 1.1626
+  - value: 0.73568
+  - value: 1.5164
+  - value: 1.1438
+  - value: 1.1085
+  - value: 0.9985
+  - value: 0.83217
+  - value: 1.039
+  - value: 0.95865
+  - value: 0.50255
+  - value: 0.278
+  - value: 0.33871
+  - value: 0.12446
+  - value: 0.021339
+  - value: 0.037844
+  - value: 0
+  - value: 0.071518
+  - value: 0.024276
+  - value: 0.020341
+  - value: 0
+  - value: 0.037844
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=1%%, m=3500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.25993
+  - value: 0.67015
+  - value: 0.91654
+  - value: 0.81761
+  - value: 0.54665
+  - value: 0.70348
+  - value: 0.72189
+  - value: 0.45046
+  - value: 0.71987
+  - value: 0.31631
+  - value: 0.41928
+  - value: 0.42539
+  - value: 0.65001
+  - value: 0.68743
+  - value: 0.54449
+  - value: 0.71393
+  - value: 0.4856
+  - value: 0.94575
+  - value: 0.97869
+  - value: 1.3903
+  - value: 1.1399
+  - value: 0.47312
+  - value: 0.72248
+  - value: 0.80496
+  - value: 0.68662
+  - value: 0.28564
+  - value: 0.2103
+  - value: 0.15879
+  - value: 0.13466
+  - value: 0.020712
+  - value: 0.0099334
+  - value: 0.076164
+  - value: 0
+  - value: 0.0039992
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=1%%, m=4000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 4.7817e-06
+  - value: 0.18953
+  - value: 0.57323
+  - value: 0.78939
+  - value: 1.047
+  - value: 0.6572
+  - value: 0.69604
+  - value: 0.52167
+  - value: 0.5977
+  - value: 0.45744
+  - value: 0.57912
+  - value: 0.45081
+  - value: 0.70097
+  - value: 0.4164
+  - value: 0.73547
+  - value: 0.39618
+  - value: 0.75022
+  - value: 0.48847
+  - value: 0.47211
+  - value: 0.38173
+  - value: 0.32321
+  - value: 0.54639
+  - value: 0.38357
+  - value: 0.46536
+  - value: 0.72225
+  - value: 0.33184
+  - value: 0.31771
+  - value: 0.26381
+  - value: 0.22424
+  - value: 0.27346
+  - value: 0.32054
+  - value: 0.12068
+  - value: 0.091916
+  - value: 0.056324
+  - value: 0
+  - value: 0.00025497
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0039008
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=1000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.03015
+  - value: 0.41785
+  - value: 0.59994
+  - value: 0.099477
+  - value: 0.16795
+  - value: 0.04443
+  - value: 0.070446
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0097867
   - value: 0
   - value: 0
   - value: 0
@@ -222,7 +666,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _Zprime2000 events in all-had / 100 GeV
+    name: Number of Z', width=10%%, m=1250 events in all-had / 100 GeV
     units: ''
   values:
   - value: 0
@@ -235,31 +679,18 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 0
-  - value: 2.105e-05
-  - value: 0.060319
-  - value: 0.11928
-  - value: 0.22282
-  - value: 0.86019
-  - value: 1.247
-  - value: 2.3377
-  - value: 3.2661
-  - value: 5.5052
-  - value: 8.9227
-  - value: 6.4854
-  - value: 1.4589
-  - value: 0.084155
-  - value: 0.035508
-  - value: 0.018433
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 5.5787e-07
-  - value: 0
-  - value: 0.034835
-  - value: 0.045698
+  - value: 0.10247
+  - value: 1.9281
+  - value: 3.1185
+  - value: 1.5646
+  - value: 0.91745
+  - value: 0.54539
+  - value: 0.32386
+  - value: 0.14167
+  - value: 0.06934
+  - value: 0.078679
+  - value: 1.1805e-06
+  - value: 0.039271
   - value: 0
   - value: 0
   - value: 0
@@ -267,72 +698,11 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 0
+  - value: 0.039006
   - value: 0
   - value: 0
   - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-- header:
-    name: Number of _Zprime2500 events in all-had / 100 GeV
-    units: ''
-  values:
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0.0032821
-  - value: 0.13883
-  - value: 0.0081884
-  - value: 0.12911
-  - value: 0.40281
-  - value: 0.60958
-  - value: 0.46703
-  - value: 0.79839
-  - value: 1.3971
-  - value: 1.4187
-  - value: 2.1603
-  - value: 3.7704
-  - value: 6.3439
-  - value: 8.6617
-  - value: 5.0738
-  - value: 1.4769
-  - value: 0.032846
-  - value: 0.09187
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
-  - value: 0
+  - value: 0.092584
   - value: 0
   - value: 0
   - value: 0
@@ -370,7 +740,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _Zprime3000 events in all-had / 100 GeV
+    name: Number of Z', width=10%%, m=1500 events in all-had / 100 GeV
     units: ''
   values:
   - value: 0
@@ -384,29 +754,29 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 0
-  - value: 0.0014488
-  - value: 0.077169
-  - value: 0.00021682
-  - value: 0.035639
-  - value: 0.19251
-  - value: 0.2276
-  - value: 0.31671
-  - value: 0.17373
-  - value: 0.55436
-  - value: 0.45063
-  - value: 0.70503
-  - value: 1.1554
-  - value: 0.91764
-  - value: 1.6508
-  - value: 1.847
-  - value: 2.8445
-  - value: 3.6334
-  - value: 5.6595
-  - value: 6.8762
-  - value: 3.5515
-  - value: 1.8572
-  - value: 0.27646
-  - value: 0.028798
+  - value: 0.66409
+  - value: 3.0384
+  - value: 4.0149
+  - value: 3.8329
+  - value: 2.7384
+  - value: 1.5317
+  - value: 0.93238
+  - value: 0.28665
+  - value: 0.21206
+  - value: 0.023721
+  - value: 6.4412e-07
+  - value: 0
+  - value: 0.00089079
+  - value: 0.0039756
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
   - value: 0
   - value: 0
   - value: 0
@@ -444,7 +814,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _Zprime3500 events in all-had / 100 GeV
+    name: Number of Z', width=10%%, m=2000 events in all-had / 100 GeV
     units: ''
   values:
   - value: 0
@@ -457,37 +827,32 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 0
+  - value: 0.12949
+  - value: 0.3355
+  - value: 0.70753
+  - value: 0.74782
+  - value: 1.9518
+  - value: 2.696
+  - value: 2.1878
+  - value: 2.5187
+  - value: 3.021
+  - value: 2.4799
+  - value: 2.0805
+  - value: 0.73473
+  - value: 0.56807
+  - value: 0.23397
+  - value: 0.22897
+  - value: 0.011881
+  - value: 0
+  - value: 0.048141
+  - value: 0.020563
+  - value: 0
+  - value: 0
+  - value: 0.00011792
   - value: 0
   - value: 0
   - value: 0
-  - value: 0.099738
-  - value: 0.19068
-  - value: 0.062924
-  - value: 0.072275
-  - value: 0.049704
-  - value: 0.2442
-  - value: 0.20408
-  - value: 0.43677
-  - value: 0.29132
-  - value: 0.91163
-  - value: 0.20875
-  - value: 0.61753
-  - value: 0.55581
-  - value: 0.7256
-  - value: 0.94564
-  - value: 1.0015
-  - value: 1.851
-  - value: 1.9329
-  - value: 2.8494
-  - value: 3.358
-  - value: 4.7277
-  - value: 4.6205
-  - value: 3.2933
-  - value: 0.97106
-  - value: 0.23188
-  - value: 0.062941
-  - value: 0
-  - value: 0.062158
+  - value: 0.094848
   - value: 0
   - value: 0
   - value: 0
@@ -504,7 +869,12 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 0
-  - value: 0.00022358
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
   - value: 0
   - value: 0
   - value: 0
@@ -518,7 +888,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _Zprime4000 events in all-had / 100 GeV
+    name: Number of Z', width=10%%, m=2500 events in all-had / 100 GeV
     units: ''
   values:
   - value: 0
@@ -532,46 +902,1156 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 0
+  - value: 0.31809
+  - value: 0.61788
+  - value: 1.0117
+  - value: 0.96743
+  - value: 1.1635
+  - value: 1.3441
+  - value: 1.7139
+  - value: 0.99472
+  - value: 1.3218
+  - value: 1.7921
+  - value: 1.157
+  - value: 1.8264
+  - value: 2.0045
+  - value: 1.5603
+  - value: 1.1792
+  - value: 0.87779
+  - value: 0.39932
+  - value: 0.26784
+  - value: 0.093906
   - value: 0
-  - value: 0
-  - value: 0.063217
-  - value: 0.003921
-  - value: 0.03693
-  - value: 0.00077964
-  - value: 0.01798
-  - value: 0.051526
-  - value: 0.063217
-  - value: 0.01798
-  - value: 0.27956
-  - value: 0.1854
-  - value: 0.023978
-  - value: 0.28092
-  - value: 0.17926
-  - value: 0.26973
-  - value: 0.31624
-  - value: 0.41767
-  - value: 0.50863
-  - value: 0.91335
-  - value: 0.66022
-  - value: 1.1423
-  - value: 1.257
-  - value: 1.4885
-  - value: 2.1332
-  - value: 2.6888
-  - value: 3.3539
-  - value: 5.5415
-  - value: 4.2799
-  - value: 3.2953
-  - value: 1.6656
-  - value: 0.33021
-  - value: 0.24151
-  - value: 0.050006
-  - value: 0.0794
+  - value: 0.00011532
+  - value: 0.00098734
   - value: 0
   - value: 0
   - value: 0
   - value: 0
   - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=3000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0039358
+  - value: 0.23469
+  - value: 0.77158
+  - value: 0.72064
+  - value: 0.93018
+  - value: 0.5959
+  - value: 0.46933
+  - value: 0.72103
+  - value: 0.66318
+  - value: 1.0847
+  - value: 0.72516
+  - value: 0.72516
+  - value: 1.1626
+  - value: 0.73568
+  - value: 1.5164
+  - value: 1.1438
+  - value: 1.1085
+  - value: 0.9985
+  - value: 0.83217
+  - value: 1.039
+  - value: 0.95865
+  - value: 0.50255
+  - value: 0.278
+  - value: 0.33871
+  - value: 0.12446
+  - value: 0.021339
+  - value: 0.037844
+  - value: 0
+  - value: 0.071518
+  - value: 0.024276
+  - value: 0.020341
+  - value: 0
+  - value: 0.037844
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=3500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.25993
+  - value: 0.67015
+  - value: 0.91654
+  - value: 0.81761
+  - value: 0.54665
+  - value: 0.70348
+  - value: 0.72189
+  - value: 0.45046
+  - value: 0.71987
+  - value: 0.31631
+  - value: 0.41928
+  - value: 0.42539
+  - value: 0.65001
+  - value: 0.68743
+  - value: 0.54449
+  - value: 0.71393
+  - value: 0.4856
+  - value: 0.94575
+  - value: 0.97869
+  - value: 1.3903
+  - value: 1.1399
+  - value: 0.47312
+  - value: 0.72248
+  - value: 0.80496
+  - value: 0.68662
+  - value: 0.28564
+  - value: 0.2103
+  - value: 0.15879
+  - value: 0.13466
+  - value: 0.020712
+  - value: 0.0099334
+  - value: 0.076164
+  - value: 0
+  - value: 0.0039992
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=4000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 4.7817e-06
+  - value: 0.18953
+  - value: 0.57323
+  - value: 0.78939
+  - value: 1.047
+  - value: 0.6572
+  - value: 0.69604
+  - value: 0.52167
+  - value: 0.5977
+  - value: 0.45744
+  - value: 0.57912
+  - value: 0.45081
+  - value: 0.70097
+  - value: 0.4164
+  - value: 0.73547
+  - value: 0.39618
+  - value: 0.75022
+  - value: 0.48847
+  - value: 0.47211
+  - value: 0.38173
+  - value: 0.32321
+  - value: 0.54639
+  - value: 0.38357
+  - value: 0.46536
+  - value: 0.72225
+  - value: 0.33184
+  - value: 0.31771
+  - value: 0.26381
+  - value: 0.22424
+  - value: 0.27346
+  - value: 0.32054
+  - value: 0.12068
+  - value: 0.091916
+  - value: 0.056324
+  - value: 0
+  - value: 0.00025497
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0039008
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=30%%, m=1000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.03015
+  - value: 0.41785
+  - value: 0.59994
+  - value: 0.099477
+  - value: 0.16795
+  - value: 0.04443
+  - value: 0.070446
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0097867
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=30%%, m=2000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.12949
+  - value: 0.3355
+  - value: 0.70753
+  - value: 0.74782
+  - value: 1.9518
+  - value: 2.696
+  - value: 2.1878
+  - value: 2.5187
+  - value: 3.021
+  - value: 2.4799
+  - value: 2.0805
+  - value: 0.73473
+  - value: 0.56807
+  - value: 0.23397
+  - value: 0.22897
+  - value: 0.011881
+  - value: 0
+  - value: 0.048141
+  - value: 0.020563
+  - value: 0
+  - value: 0
+  - value: 0.00011792
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.094848
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=30%%, m=3000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0039358
+  - value: 0.23469
+  - value: 0.77158
+  - value: 0.72064
+  - value: 0.93018
+  - value: 0.5959
+  - value: 0.46933
+  - value: 0.72103
+  - value: 0.66318
+  - value: 1.0847
+  - value: 0.72516
+  - value: 0.72516
+  - value: 1.1626
+  - value: 0.73568
+  - value: 1.5164
+  - value: 1.1438
+  - value: 1.1085
+  - value: 0.9985
+  - value: 0.83217
+  - value: 1.039
+  - value: 0.95865
+  - value: 0.50255
+  - value: 0.278
+  - value: 0.33871
+  - value: 0.12446
+  - value: 0.021339
+  - value: 0.037844
+  - value: 0
+  - value: 0.071518
+  - value: 0.024276
+  - value: 0.020341
+  - value: 0
+  - value: 0.037844
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=30%%, m=4000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 4.7817e-06
+  - value: 0.18953
+  - value: 0.57323
+  - value: 0.78939
+  - value: 1.047
+  - value: 0.6572
+  - value: 0.69604
+  - value: 0.52167
+  - value: 0.5977
+  - value: 0.45744
+  - value: 0.57912
+  - value: 0.45081
+  - value: 0.70097
+  - value: 0.4164
+  - value: 0.73547
+  - value: 0.39618
+  - value: 0.75022
+  - value: 0.48847
+  - value: 0.47211
+  - value: 0.38173
+  - value: 0.32321
+  - value: 0.54639
+  - value: 0.38357
+  - value: 0.46536
+  - value: 0.72225
+  - value: 0.33184
+  - value: 0.31771
+  - value: 0.26381
+  - value: 0.22424
+  - value: 0.27346
+  - value: 0.32054
+  - value: 0.12068
+  - value: 0.091916
+  - value: 0.056324
+  - value: 0
+  - value: 0.00025497
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0039008
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=1000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.03015
+  - value: 0.41785
+  - value: 0.59994
+  - value: 0.099477
+  - value: 0.16795
+  - value: 0.04443
+  - value: 0.070446
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0097867
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=1250 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.10247
+  - value: 1.9281
+  - value: 3.1185
+  - value: 1.5646
+  - value: 0.91745
+  - value: 0.54539
+  - value: 0.32386
+  - value: 0.14167
+  - value: 0.06934
+  - value: 0.078679
+  - value: 1.1805e-06
+  - value: 0.039271
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.039006
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.092584
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=1500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.66409
+  - value: 3.0384
+  - value: 4.0149
+  - value: 3.8329
+  - value: 2.7384
+  - value: 1.5317
+  - value: 0.93238
+  - value: 0.28665
+  - value: 0.21206
+  - value: 0.023721
+  - value: 6.4412e-07
+  - value: 0
+  - value: 0.00089079
+  - value: 0.0039756
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=2000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.12949
+  - value: 0.3355
+  - value: 0.70753
+  - value: 0.74782
+  - value: 1.9518
+  - value: 2.696
+  - value: 2.1878
+  - value: 2.5187
+  - value: 3.021
+  - value: 2.4799
+  - value: 2.0805
+  - value: 0.73473
+  - value: 0.56807
+  - value: 0.23397
+  - value: 0.22897
+  - value: 0.011881
+  - value: 0
+  - value: 0.048141
+  - value: 0.020563
+  - value: 0
+  - value: 0
+  - value: 0.00011792
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.094848
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=2500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.31809
+  - value: 0.61788
+  - value: 1.0117
+  - value: 0.96743
+  - value: 1.1635
+  - value: 1.3441
+  - value: 1.7139
+  - value: 0.99472
+  - value: 1.3218
+  - value: 1.7921
+  - value: 1.157
+  - value: 1.8264
+  - value: 2.0045
+  - value: 1.5603
+  - value: 1.1792
+  - value: 0.87779
+  - value: 0.39932
+  - value: 0.26784
+  - value: 0.093906
+  - value: 0
+  - value: 0.00011532
+  - value: 0.00098734
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=3000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0039358
+  - value: 0.23469
+  - value: 0.77158
+  - value: 0.72064
+  - value: 0.93018
+  - value: 0.5959
+  - value: 0.46933
+  - value: 0.72103
+  - value: 0.66318
+  - value: 1.0847
+  - value: 0.72516
+  - value: 0.72516
+  - value: 1.1626
+  - value: 0.73568
+  - value: 1.5164
+  - value: 1.1438
+  - value: 1.1085
+  - value: 0.9985
+  - value: 0.83217
+  - value: 1.039
+  - value: 0.95865
+  - value: 0.50255
+  - value: 0.278
+  - value: 0.33871
+  - value: 0.12446
+  - value: 0.021339
+  - value: 0.037844
+  - value: 0
+  - value: 0.071518
+  - value: 0.024276
+  - value: 0.020341
+  - value: 0
+  - value: 0.037844
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=3500 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.25993
+  - value: 0.67015
+  - value: 0.91654
+  - value: 0.81761
+  - value: 0.54665
+  - value: 0.70348
+  - value: 0.72189
+  - value: 0.45046
+  - value: 0.71987
+  - value: 0.31631
+  - value: 0.41928
+  - value: 0.42539
+  - value: 0.65001
+  - value: 0.68743
+  - value: 0.54449
+  - value: 0.71393
+  - value: 0.4856
+  - value: 0.94575
+  - value: 0.97869
+  - value: 1.3903
+  - value: 1.1399
+  - value: 0.47312
+  - value: 0.72248
+  - value: 0.80496
+  - value: 0.68662
+  - value: 0.28564
+  - value: 0.2103
+  - value: 0.15879
+  - value: 0.13466
+  - value: 0.020712
+  - value: 0.0099334
+  - value: 0.076164
+  - value: 0
+  - value: 0.0039992
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=4000 events in all-had / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 4.7817e-06
+  - value: 0.18953
+  - value: 0.57323
+  - value: 0.78939
+  - value: 1.047
+  - value: 0.6572
+  - value: 0.69604
+  - value: 0.52167
+  - value: 0.5977
+  - value: 0.45744
+  - value: 0.57912
+  - value: 0.45081
+  - value: 0.70097
+  - value: 0.4164
+  - value: 0.73547
+  - value: 0.39618
+  - value: 0.75022
+  - value: 0.48847
+  - value: 0.47211
+  - value: 0.38173
+  - value: 0.32321
+  - value: 0.54639
+  - value: 0.38357
+  - value: 0.46536
+  - value: 0.72225
+  - value: 0.33184
+  - value: 0.31771
+  - value: 0.26381
+  - value: 0.22424
+  - value: 0.27346
+  - value: 0.32054
+  - value: 0.12068
+  - value: 0.091916
+  - value: 0.056324
+  - value: 0
+  - value: 0.00025497
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0039008
   - value: 0
   - value: 0
   - value: 0

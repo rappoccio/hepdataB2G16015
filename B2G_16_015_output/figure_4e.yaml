@@ -1,6 +1,6 @@
 dependent_variables:
 - header:
-    name: Number of _zpn0500 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=500 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -64,7 +64,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn0750 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=750 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -128,7 +128,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn1000 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=1000 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -192,7 +192,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn1250 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=1250 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -256,7 +256,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn1500 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=1500 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -320,7 +320,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn2000 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=2000 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -384,7 +384,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn2500 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=2500 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -448,7 +448,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn3000 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=3000 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -512,7 +512,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn3500 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=3500 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -576,7 +576,7 @@ dependent_variables:
   - value: 0
   - value: 0
 - header:
-    name: Number of _zpn4000 events in l+jets / 100 GeV
+    name: Number of Z', width=1%%, m=4000 events in l+jets / 100 GeV
     units: ''
   values:
   - value: 0
@@ -628,6 +628,1542 @@ dependent_variables:
   - value: 0
   - value: 0
   - value: 5.4214e-05
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.13392
+  - value: 1.4835
+  - value: 2.0504
+  - value: 0.89365
+  - value: 0.81509
+  - value: 0.28664
+  - value: 0.18767
+  - value: 0.032174
+  - value: 0.0088454
+  - value: 0.0020241
+  - value: 0.085511
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=750 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.97577
+  - value: 3.0127
+  - value: 5.1736
+  - value: 8.2411
+  - value: 11.37
+  - value: 5.1629
+  - value: 1.5902
+  - value: 0.36946
+  - value: 0.28651
+  - value: 0.10821
+  - value: 0.080334
+  - value: 0.033966
+  - value: 0.020906
+  - value: 0.00053634
+  - value: 0.00030935
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=1000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 1.1104
+  - value: 4.173
+  - value: 4.796
+  - value: 6.1605
+  - value: 7.1449
+  - value: 10.483
+  - value: 14.784
+  - value: 10.841
+  - value: 3.7446
+  - value: 1.2623
+  - value: 0.40889
+  - value: 0.32388
+  - value: 0.10035
+  - value: 0.078523
+  - value: 0.098328
+  - value: 0
+  - value: 0.00010696
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=1250 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.059151
+  - value: 0.98629
+  - value: 3.9997
+  - value: 4.9835
+  - value: 5.7872
+  - value: 4.7459
+  - value: 6.0405
+  - value: 7.7602
+  - value: 9.9318
+  - value: 11.03
+  - value: 9.1287
+  - value: 5.7139
+  - value: 1.5511
+  - value: 0.49683
+  - value: 0.38336
+  - value: 0.060944
+  - value: 0.075442
+  - value: 0.070689
+  - value: 0
+  - value: 0
+  - value: 0.021797
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=1500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 1.1674
+  - value: 3.2134
+  - value: 3.5752
+  - value: 4.6945
+  - value: 4.9137
+  - value: 4.57
+  - value: 4.5947
+  - value: 5.0632
+  - value: 6.4209
+  - value: 7.2271
+  - value: 8.7906
+  - value: 7.7222
+  - value: 5.8658
+  - value: 2.6498
+  - value: 0.83007
+  - value: 0.4023
+  - value: 0.21579
+  - value: 0.17399
+  - value: 0.050641
+  - value: 0.060567
+  - value: 0.0001368
+  - value: 0.095607
+  - value: 2.1567e-06
+  - value: 0.0027842
+  - value: 0.039585
+  - value: 2.0848e-06
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=2000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.060993
+  - value: 1.0569
+  - value: 3.3789
+  - value: 4.0568
+  - value: 3.9595
+  - value: 4.1247
+  - value: 3.7599
+  - value: 4.068
+  - value: 3.3838
+  - value: 3.115
+  - value: 2.5685
+  - value: 2.8378
+  - value: 3.6065
+  - value: 4.0065
+  - value: 5.3095
+  - value: 6.7571
+  - value: 6.4709
+  - value: 6.0511
+  - value: 3.861
+  - value: 2.2844
+  - value: 0.9553
+  - value: 0.68356
+  - value: 0.034586
+  - value: 0.047172
+  - value: 0.081741
+  - value: 0.10539
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.00098401
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.062932
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=2500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.05334
+  - value: 0.67936
+  - value: 2.4047
+  - value: 2.7873
+  - value: 4.0737
+  - value: 3.6687
+  - value: 4.0924
+  - value: 4.2037
+  - value: 3.4452
+  - value: 3.9391
+  - value: 2.8831
+  - value: 3.2696
+  - value: 2.4724
+  - value: 3.5746
+  - value: 2.3172
+  - value: 2.8644
+  - value: 3.1332
+  - value: 3.5997
+  - value: 4.1099
+  - value: 4.2623
+  - value: 5.2887
+  - value: 4.6156
+  - value: 4.0446
+  - value: 3.5147
+  - value: 1.8866
+  - value: 1.0256
+  - value: 0.36137
+  - value: 0.32108
+  - value: 0.10955
+  - value: 0.046507
+  - value: 0.00093628
+  - value: 0.059603
+  - value: 0.0056719
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.052905
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=3000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.0076133
+  - value: 0.91903
+  - value: 2.5463
+  - value: 3.3655
+  - value: 3.8931
+  - value: 4.2678
+  - value: 3.7716
+  - value: 3.7561
+  - value: 3.331
+  - value: 2.8189
+  - value: 2.9172
+  - value: 3.0633
+  - value: 2.5084
+  - value: 2.3567
+  - value: 2.0218
+  - value: 2.5054
+  - value: 1.5958
+  - value: 2.0522
+  - value: 2.023
+  - value: 2.5465
+  - value: 2.6768
+  - value: 2.7767
+  - value: 3.2082
+  - value: 2.404
+  - value: 3.0187
+  - value: 3.3525
+  - value: 2.9008
+  - value: 2.6235
+  - value: 2.08
+  - value: 1.1953
+  - value: 0.70699
+  - value: 0.54173
+  - value: 0.16049
+  - value: 0.10288
+  - value: 0.11225
+  - value: 0.11594
+  - value: 0.041289
+  - value: 0
+  - value: 0.010992
+  - value: 5.4861e-05
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.023508
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.00031329
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=3500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.033989
+  - value: 0.96644
+  - value: 2.6485
+  - value: 2.7808
+  - value: 3.6852
+  - value: 4.515
+  - value: 3.6073
+  - value: 4.3092
+  - value: 3.313
+  - value: 3.01
+  - value: 2.4906
+  - value: 2.6921
+  - value: 2.5692
+  - value: 2.4435
+  - value: 2.1093
+  - value: 1.5181
+  - value: 1.8294
+  - value: 1.558
+  - value: 1.6822
+  - value: 2.3553
+  - value: 1.632
+  - value: 1.749
+  - value: 1.3395
+  - value: 1.9489
+  - value: 1.8462
+  - value: 1.509
+  - value: 2.518
+  - value: 2.2716
+  - value: 2.0589
+  - value: 2.1075
+  - value: 2.5728
+  - value: 2.023
+  - value: 1.8507
+  - value: 1.7325
+  - value: 0.69668
+  - value: 0.63261
+  - value: 0.41183
+  - value: 0.24143
+  - value: 0.098681
+  - value: 0
+  - value: 0.097255
+  - value: 0
+  - value: 0.10991
+  - value: 0
+  - value: 0.033826
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=10%%, m=4000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.048576
+  - value: 1.0817
+  - value: 2.7608
+  - value: 3.4356
+  - value: 3.5681
+  - value: 3.9077
+  - value: 4.7303
+  - value: 4.3094
+  - value: 3.5042
+  - value: 3.1474
+  - value: 2.8942
+  - value: 2.2324
+  - value: 2.087
+  - value: 2.1654
+  - value: 1.8096
+  - value: 1.6654
+  - value: 1.4576
+  - value: 1.0369
+  - value: 1.3821
+  - value: 1.5915
+  - value: 1.4093
+  - value: 1.2963
+  - value: 1.2251
+  - value: 1.6332
+  - value: 1.0574
+  - value: 1.1219
+  - value: 1.0475
+  - value: 1.613
+  - value: 0.73419
+  - value: 1.1338
+  - value: 1.6571
+  - value: 1.6989
+  - value: 1.7015
+  - value: 1.6166
+  - value: 1.5382
+  - value: 1.3142
+  - value: 1.4487
+  - value: 0.95446
+  - value: 0.8732
+  - value: 0.43278
+  - value: 0.33217
+  - value: 0.26641
+  - value: 0.13617
+  - value: 0.1096
+  - value: 0.21847
+  - value: 0.14538
+  - value: 0.033802
+  - value: 0.052163
+  - value: 0
+  - value: 0
+  - value: 0.00046032
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=30%%, m=1000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 1.0762
+  - value: 3.2628
+  - value: 5.278
+  - value: 5.6951
+  - value: 8.3073
+  - value: 8.5213
+  - value: 11.218
+  - value: 6.9813
+  - value: 3.7856
+  - value: 2.1748
+  - value: 0.68761
+  - value: 0.56544
+  - value: 0.33398
+  - value: 0.15366
+  - value: 0.18023
+  - value: 0.022854
+  - value: 0.050529
+  - value: 0.0010148
+  - value: 0.045256
+  - value: 0.012123
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.036184
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=30%%, m=2000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 1.0623
+  - value: 2.784
+  - value: 5.1994
+  - value: 4.5203
+  - value: 4.45
+  - value: 4.9478
+  - value: 4.9833
+  - value: 4.2669
+  - value: 3.9764
+  - value: 4.1654
+  - value: 3.4844
+  - value: 3.7916
+  - value: 3.7529
+  - value: 3.4279
+  - value: 3.5188
+  - value: 3.9092
+  - value: 3.0725
+  - value: 2.8534
+  - value: 1.9923
+  - value: 1.3433
+  - value: 0.66451
+  - value: 0.45145
+  - value: 0.31711
+  - value: 0.22861
+  - value: 0.11819
+  - value: 0.073027
+  - value: 0.096559
+  - value: 0
+  - value: 0.047462
+  - value: 0.011496
+  - value: 0.041701
+  - value: 3.9985e-05
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.041855
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0001961
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=30%%, m=3000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.00068877
+  - value: 1.1305
+  - value: 2.2685
+  - value: 2.8965
+  - value: 4.388
+  - value: 4.0041
+  - value: 4.0293
+  - value: 4.1898
+  - value: 4.2851
+  - value: 3.4304
+  - value: 3.1327
+  - value: 2.8547
+  - value: 2.6853
+  - value: 2.2596
+  - value: 1.9584
+  - value: 2.3097
+  - value: 1.7359
+  - value: 2.2328
+  - value: 1.652
+  - value: 2.453
+  - value: 1.5615
+  - value: 1.877
+  - value: 1.605
+  - value: 1.7867
+  - value: 1.5023
+  - value: 1.3445
+  - value: 0.83669
+  - value: 1.2674
+  - value: 1.0328
+  - value: 0.70979
+  - value: 0.32352
+  - value: 0.33915
+  - value: 0.085171
+  - value: 0.10991
+  - value: 0.12251
+  - value: 0.15655
+  - value: 0.074071
+  - value: 0.058445
+  - value: 0.00047188
+  - value: 0
+  - value: 0.10138
+  - value: 0
+  - value: 0.05839
+  - value: 0
+  - value: 0
+  - value: 0.00023019
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of Z', width=30%%, m=4000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.81561
+  - value: 3.1573
+  - value: 4.4081
+  - value: 4.8089
+  - value: 4.2532
+  - value: 4.0889
+  - value: 4.657
+  - value: 5.1539
+  - value: 3.3446
+  - value: 3.675
+  - value: 2.2698
+  - value: 2.8217
+  - value: 1.9513
+  - value: 2.1524
+  - value: 1.8929
+  - value: 1.5932
+  - value: 1.6936
+  - value: 1.2413
+  - value: 1.7481
+  - value: 1.0167
+  - value: 0.97613
+  - value: 0.70342
+  - value: 1.415
+  - value: 1.2364
+  - value: 1.4321
+  - value: 0.9211
+  - value: 1.12
+  - value: 0.44437
+  - value: 0.73291
+  - value: 0.54881
+  - value: 0.37614
+  - value: 0.60648
+  - value: 0.60204
+  - value: 0.8117
+  - value: 0.30268
+  - value: 0.31817
+  - value: 0.45286
+  - value: 0.47551
+  - value: 0.25313
+  - value: 0.035689
+  - value: 0.2576
+  - value: 0.14364
+  - value: 0.012093
+  - value: 0.013415
+  - value: 0.15254
+  - value: 0.05799
+  - value: 0
+  - value: 0
+  - value: 0.0007896
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.20448
+  - value: 1.6951
+  - value: 2.1956
+  - value: 1.2598
+  - value: 0.88201
+  - value: 0.42418
+  - value: 0.31079
+  - value: 0.21397
+  - value: 0.056345
+  - value: 0
+  - value: 0.0013457
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.0058056
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=750 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 1.3977
+  - value: 3.7235
+  - value: 4.7958
+  - value: 6.9779
+  - value: 7.6761
+  - value: 5.518
+  - value: 2.7451
+  - value: 0.66755
+  - value: 0.36289
+  - value: 0.31622
+  - value: 0.12546
+  - value: 0.046395
+  - value: 0.08084
+  - value: 0
+  - value: 0.006483
+  - value: 0
+  - value: 0.00052244
+  - value: 0
+  - value: 0
+  - value: 1.8693e-05
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=1000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.10111
+  - value: 0.875
+  - value: 3.4771
+  - value: 6.2551
+  - value: 7.2453
+  - value: 8.2298
+  - value: 10.323
+  - value: 12.153
+  - value: 8.7548
+  - value: 2.7545
+  - value: 0.88987
+  - value: 0.49076
+  - value: 0.37079
+  - value: 0.158
+  - value: 0.0012576
+  - value: 0.096091
+  - value: 0.0004241
+  - value: 0
+  - value: 0
+  - value: 0.038769
+  - value: 0.00042726
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.094901
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=1250 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.96512
+  - value: 4.1144
+  - value: 4.7652
+  - value: 6.4216
+  - value: 5.7594
+  - value: 6.7125
+  - value: 8.5417
+  - value: 9.5519
+  - value: 8.7474
+  - value: 5.2073
+  - value: 3.5411
+  - value: 1.4007
+  - value: 0.88567
+  - value: 0.30033
+  - value: 0.27211
+  - value: 0.0092706
+  - value: 0.10802
+  - value: 0.0011694
+  - value: 0
+  - value: 0.069533
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=1500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.96495
+  - value: 3.9537
+  - value: 4.5031
+  - value: 4.7983
+  - value: 5.3552
+  - value: 4.8171
+  - value: 5.7502
+  - value: 4.8265
+  - value: 6.1497
+  - value: 4.645
+  - value: 5.5487
+  - value: 6.3284
+  - value: 3.5285
+  - value: 2.0198
+  - value: 1.2757
+  - value: 0.7058
+  - value: 0.27667
+  - value: 0.11209
+  - value: 0.14403
+  - value: 0.099098
+  - value: 2.0955e-05
+  - value: 0.10053
+  - value: 0.070339
+  - value: 0.013256
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.016341
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=2000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.076975
+  - value: 1.1299
+  - value: 3.432
+  - value: 4.7071
+  - value: 4.169
+  - value: 5.8566
+  - value: 4.8818
+  - value: 4.1652
+  - value: 3.9124
+  - value: 3.9786
+  - value: 2.8728
+  - value: 3.2139
+  - value: 4.1415
+  - value: 4.3813
+  - value: 3.6171
+  - value: 4.1212
+  - value: 3.4308
+  - value: 3.0119
+  - value: 1.9457
+  - value: 1.5547
+  - value: 0.69876
+  - value: 0.38942
+  - value: 0.34981
+  - value: 0.057671
+  - value: 0.1312
+  - value: 0.20128
+  - value: 0.10156
+  - value: 0
+  - value: 0.00059216
+  - value: 0
+  - value: 0.0063458
+  - value: 0
+  - value: 0.12253
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=2500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.025842
+  - value: 0.71069
+  - value: 2.8239
+  - value: 4.3217
+  - value: 4.1901
+  - value: 4.3353
+  - value: 4.4506
+  - value: 3.7452
+  - value: 2.8954
+  - value: 3.0563
+  - value: 2.8718
+  - value: 3.5509
+  - value: 1.8188
+  - value: 3.0714
+  - value: 2.5884
+  - value: 2.5835
+  - value: 3.0089
+  - value: 2.8333
+  - value: 2.6938
+  - value: 2.8476
+  - value: 2.3738
+  - value: 2.5405
+  - value: 1.5324
+  - value: 1.4867
+  - value: 1.4347
+  - value: 0.61794
+  - value: 0.15533
+  - value: 0.24794
+  - value: 0.13184
+  - value: 0.0030798
+  - value: 0.074469
+  - value: 0.0007089
+  - value: 0.083879
+  - value: 0.061352
+  - value: 0.02497
+  - value: 0
+  - value: 0
+  - value: 0.014268
+  - value: 0
+  - value: 0.027049
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=3000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.041726
+  - value: 1.0478
+  - value: 2.9416
+  - value: 4.1316
+  - value: 7.8627
+  - value: 3.5046
+  - value: 4.4268
+  - value: 3.98
+  - value: 4.4079
+  - value: 3.3603
+  - value: 3.4222
+  - value: 2.7864
+  - value: 2.5082
+  - value: 2.571
+  - value: 1.994
+  - value: 1.339
+  - value: 1.4162
+  - value: 1.7355
+  - value: 1.7485
+  - value: 1.536
+  - value: 2.3273
+  - value: 1.9355
+  - value: 1.6299
+  - value: 2.2297
+  - value: 1.8746
+  - value: 1.2899
+  - value: 1.525
+  - value: 0.97404
+  - value: 1.1868
+  - value: 0.44641
+  - value: 0.22449
+  - value: 0.36101
+  - value: 0.16256
+  - value: 0.13581
+  - value: 0.11243
+  - value: 0
+  - value: 0.056826
+  - value: 0.0067721
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.053298
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=3500 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.075995
+  - value: 0.74905
+  - value: 2.8032
+  - value: 3.3396
+  - value: 4.5989
+  - value: 4.1753
+  - value: 4.7883
+  - value: 4.2676
+  - value: 3.0322
+  - value: 2.2584
+  - value: 3.0812
+  - value: 2.005
+  - value: 2.1302
+  - value: 1.6545
+  - value: 1.2705
+  - value: 2.2173
+  - value: 1.5252
+  - value: 1.2312
+  - value: 1.2549
+  - value: 0.93513
+  - value: 1.4992
+  - value: 1.154
+  - value: 0.91577
+  - value: 1.2889
+  - value: 1.4211
+  - value: 1.4029
+  - value: 1.3058
+  - value: 1.6977
+  - value: 1.2178
+  - value: 1.143
+  - value: 0.9116
+  - value: 0.83214
+  - value: 0.73834
+  - value: 0.54063
+  - value: 0.65514
+  - value: 0.30203
+  - value: 0.039499
+  - value: 0.061746
+  - value: 0.04346
+  - value: 0.12598
+  - value: 0.0075016
+  - value: 0.057252
+  - value: 0.008306
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0.00079004
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+  - value: 0
+- header:
+    name: Number of RS KK gluon, m=4000 events in l+jets / 100 GeV
+    units: ''
+  values:
+  - value: 0
+  - value: 0
+  - value: 0.02493
+  - value: 1.0306
+  - value: 3.254
+  - value: 3.6829
+  - value: 4.2928
+  - value: 4.9873
+  - value: 4.4697
+  - value: 4.4226
+  - value: 4.1789
+  - value: 3.1767
+  - value: 2.9363
+  - value: 2.6263
+  - value: 1.6331
+  - value: 2.1893
+  - value: 1.3655
+  - value: 0.95933
+  - value: 1.2965
+  - value: 1.2093
+  - value: 0.87418
+  - value: 0.73396
+  - value: 1.4648
+  - value: 1.3976
+  - value: 0.75808
+  - value: 0.85949
+  - value: 0.9498
+  - value: 0.78795
+  - value: 1.0638
+  - value: 0.57033
+  - value: 0.72138
+  - value: 0.53041
+  - value: 0.86273
+  - value: 0.87216
+  - value: 0.82557
+  - value: 0.96423
+  - value: 1.045
+  - value: 0.53708
+  - value: 0.27798
+  - value: 0.037234
+  - value: 0.36777
+  - value: 0.097041
+  - value: 0.034907
+  - value: 0.084024
+  - value: 0.064262
+  - value: 0.074689
+  - value: 0
+  - value: 0.0071799
+  - value: 0.006246
   - value: 0
   - value: 0
   - value: 0
